@@ -1,0 +1,12 @@
+# Local Claude Code settings (machine-specific tool permissions)
+.claude/
+
+# Archived copy of the site - 14 MB binary duplicate of what's already tracked
+*.zip
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
