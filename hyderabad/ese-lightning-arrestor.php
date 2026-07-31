@@ -70,7 +70,6 @@ include('header.php') ?>
             <p style="text-align: center; max-width: 900px; margin: 0 auto; margin-top: 1.5rem; font-size: 1.1rem; color: #666; line-height: 1.8;">
                 Being an experienced ESE lightning arrestor trader in Hyderabad, we maintain sufficient inventory to fulfil both urgent and bulk project requirements efficiently. Our commitment to competitive pricing, timely deliveries, quality products, and responsive customer support has earned us the trust of contractors, builders, consultants, and industrial clients across Hyderabad.
             </p>
-            </p>
         </div>
     </section>
 
