@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /default.php
+Disallow: /*/default.php
+Disallow: /cgi-bin/
+
+Sitemap: https://www.earthingmanufacturers.com/sitemap.xml

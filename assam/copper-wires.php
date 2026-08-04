@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/copper-wire.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/copper-wire.avif" alt="Copper Wires" title="Copper Wires"></div>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ include('header.php') ?>
                     <p>We are a prominent Copper Wires manufacturer in Assam, offering high-quality wires for effective electrical conduction and secure installations. Our Copper Wires manufacturer in Assam offerings are produced from high-purity electrolytic copper, which makes them long-lasting, flexible, and resistant to corrosion. Our copper wires are suitable for industrial, commercial, as well as household usage and provide consistent performance throughout Assam.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img152.jpg" alt="Copper Wires">
+                    <img src="../img/img152.jpg" alt="Copper Wires" title="Copper Wires">
                 </div>
             </div>
         </div>
@@ -141,7 +141,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Bare Copper Wires">
+                        <img src="../img/img152.jpg" alt="Bare Copper Wires" title="Bare Copper Wires">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ethernet"></i>
@@ -161,7 +161,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Tinned Copper Wires">
+                        <img src="../img/img152.jpg" alt="Tinned Copper Wires" title="Tinned Copper Wires">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -181,7 +181,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Flexible Copper Wires">
+                        <img src="../img/img152.jpg" alt="Flexible Copper Wires" title="Flexible Copper Wires">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-code-branch"></i>
@@ -201,7 +201,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Multi-core Cables">
+                        <img src="../img/img152.jpg" alt="Multi-core Cables" title="Multi-core Cables">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-layer-group"></i>
@@ -221,7 +221,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Insulated Copper Wires">
+                        <img src="../img/img152.jpg" alt="Insulated Copper Wires" title="Insulated Copper Wires">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-layer-group"></i>

@@ -11,7 +11,7 @@ include('header.php') ?>
     
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/back-fill-compounds.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/back-fill-compounds.avif" alt="Backfill Earthing Compound" title="Backfill Earthing Compound"></div>
   </div>
 </div>
 
@@ -57,7 +57,7 @@ include('header.php') ?>
                     <p>We are one of the top Backfilling Earthing Compound manufacturers in Australia, offering high-performance compounds that improve the conductivity and efficiency of earthing systems. Our products in Australia from our Backfilling Earthing Compound manufacturer in Australia are designed with high-quality carbon-based and bentonite-based materials for low resistance, long-lasting performance, and environmentally safe operation. For industrial, commercial, and residential settings, our compounds offer dependable earthing solutions in Australia.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/back-fill-compound.jpg" alt="Backfill Earthing Compound">
+                    <img src="../img/back-fill-compound.jpg" alt="Backfill Earthing Compound" title="Backfill Earthing Compound">
                 </div>
             </div>
         </div>
@@ -151,7 +151,7 @@ Being a well-established Backfilling Earthing Compound supplier in Australia, we
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Carbon-Based Compounds">
+                        <img src="../img/back-fill-compound.jpg" alt="Carbon-Based Compounds" title="Carbon-Based Compounds">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-atom"></i>
@@ -171,7 +171,7 @@ Being a well-established Backfilling Earthing Compound supplier in Australia, we
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Bentonite Compounds">
+                        <img src="../img/back-fill-compound.jpg" alt="Bentonite Compounds" title="Bentonite Compounds">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tint"></i>
@@ -191,7 +191,7 @@ Being a well-established Backfilling Earthing Compound supplier in Australia, we
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Eco-Friendly Materials">
+                        <img src="../img/back-fill-compound.jpg" alt="Eco-Friendly Materials" title="Eco-Friendly Materials">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-leaf"></i>
@@ -211,7 +211,7 @@ Being a well-established Backfilling Earthing Compound supplier in Australia, we
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Standard Packaging">
+                        <img src="../img/back-fill-compound.jpg" alt="Standard Packaging" title="Standard Packaging">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-box"></i>

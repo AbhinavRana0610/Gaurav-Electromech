@@ -8,7 +8,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/ese-lightning-arrester.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/ese-lightning-arrester.avif" alt="ESE Lightning Arrestor" title="ESE Lightning Arrestor"></div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ include('header.php') ?>
                     <p>Being an eminent ESE Lightning Arrester manufacturer in Nepal , we produce high-performance lightning arresters that protect buildings from electrical surges. Our ESE Lightning Arrestor company in Nepal products are designed from the best materials available, ensuring reliability, robust construction, and adherence to global standards of safety. Our ESE Lightning Arrestors are built for industrial, commercial, and domestic use and provide maximum protection throughout Nepal.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img130.jpg" alt="ESE Lightning Arrestors">
+                    <img src="../img/img130.jpg" alt="ESE Lightning Arrestors" title="ESE Lightning Arrestors">
                 </div>
             </div>
         </div>
@@ -133,7 +133,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img130.jpg" alt="ESE Lightning Arrestors">
+                        <img src="../img/img130.jpg" alt="ESE Lightning Arrestors" title="ESE Lightning Arrestors">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-bolt"></i>
@@ -153,7 +153,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img122.jpg" alt="Support Poles">
+                        <img src="../img/img122.jpg" alt="Support Poles" title="Support Poles">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-pillar"></i>
@@ -173,7 +173,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img150.jpg" alt="Lightning Strike Counters">
+                        <img src="../img/img150.jpg" alt="Lightning Strike Counters" title="Lightning Strike Counters">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-calculator"></i>
@@ -193,7 +193,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Grounding Kits">
+                        <img src="../img/img148.jpg" alt="Grounding Kits" title="Grounding Kits">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-plug"></i>
@@ -213,7 +213,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img137.jpg" alt="Mounting Accessories">
+                        <img src="../img/img137.jpg" alt="Mounting Accessories" title="Mounting Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

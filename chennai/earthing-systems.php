@@ -8,7 +8,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/earthing-system.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/earthing-system.avif" alt="Earthing Systems" title="Earthing Systems"></div>
   </div>
 </div>
 
@@ -51,7 +51,7 @@ include('header.php') ?>
                     <p>As a leading earthing systems manufacturer in Chennai, we are committed to manufacturing excellence, strict quality control, and customer satisfaction. Our earthing systems are widely used in factories, power plants, hospitals, commercial buildings, telecom towers, educational institutions, and infrastructure projects. With dependable quality and timely delivery, Earthing Manufacturers has become a preferred manufacturer throughout Chennai.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img137.jpg" alt="Earthing Systems">
+                    <img src="../img/img137.jpg" alt="Earthing Systems" title="Earthing Systems">
                 </div>
             </div>
         </div>
@@ -142,7 +142,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img135.jpg" alt="Copper Bonded Earthing Electrodes">
+                        <img src="../img/img135.jpg" alt="Copper Bonded Earthing Electrodes" title="Copper Bonded Earthing Electrodes">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-plug"></i>
@@ -162,7 +162,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img150.jpg" alt="GI Earthing Electrode">
+                        <img src="../img/img150.jpg" alt="GI Earthing Electrode" title="GI Earthing Electrode">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-plug"></i>
@@ -182,7 +182,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img124.jpg" alt="Chemical Earthing Electrodes">
+                        <img src="../img/img124.jpg" alt="Chemical Earthing Electrodes" title="Chemical Earthing Electrodes">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-flask"></i>
@@ -202,7 +202,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Earthing Accessories">
+                        <img src="../img/img146.jpg" alt="Earthing Accessories" title="Earthing Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

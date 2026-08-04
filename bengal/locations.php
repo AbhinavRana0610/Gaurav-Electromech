@@ -1,4 +1,8 @@
-<?php include('header.php') ?>
+<?php $page_title = "Our Locations | Gaurav Electromech";
+$description = "Gaurav Electromech supplies earthing systems, lightning arrestors and cable trays across India and overseas. Find our earthing and lightning protection solutions in Bengaluru, Mumbai, Navi Mumbai, Hyderabad, Chennai, Ahmedabad, Pune, Jaipur, Lucknow and Kanpur.";
+$canonical = "https://www.earthingmanufacturers.com/locations.php";
+
+include('header.php') ?>
 
 <section class="section banner-section">
     <div class="banner-container">
@@ -13,16 +17,16 @@
   <div class="locations-container">
     <div class="locations-grid">
       <!-- Aapke saare location-box yahan rahenge -->
-      <div class="location-box"><a href="../bengaluru/backfilling-earthing-compund.php">Bengaluru</a></div>
-      <div class="location-box"><a href="../mumbai/backfilling-earthing-compund.php">Mumbai</a></div>
-      <div class="location-box"><a href="../navi-mumbai/backfilling-earthing-compund.php">Navi Mumbai</a></div>
-      <div class="location-box"><a href="../hyderabad/backfilling-earthing-compund.php">Hyderabad</a></div>
-      <div class="location-box"><a href="../chennai/backfilling-earthing-compund.php">Chennai</a></div>
-      <div class="location-box"><a href="../ahmedabad/backfilling-earthing-compund.php">Ahmedabad</a></div>
-      <div class="location-box"><a href="../pune/backfilling-earthing-compund.php">Pune</a></div>
-      <div class="location-box"><a href="../jaipur/backfilling-earthing-compund.php">Jaipur</a></div>
-      <div class="location-box"><a href="../lucknow/backfilling-earthing-compund.php">Lucknow</a></div>
-      <div class="location-box"><a href="../kanpur/backfilling-earthing-compund.php">Kanpur</a></div>
+      <div class="location-box"><a href="../bengaluru/backfilling-earthing-compund.php" title="Bengaluru">Bengaluru</a></div>
+      <div class="location-box"><a href="../mumbai/backfilling-earthing-compund.php" title="Mumbai">Mumbai</a></div>
+      <div class="location-box"><a href="../navi-mumbai/backfilling-earthing-compund.php" title="Navi Mumbai">Navi Mumbai</a></div>
+      <div class="location-box"><a href="../hyderabad/backfilling-earthing-compund.php" title="Hyderabad">Hyderabad</a></div>
+      <div class="location-box"><a href="../chennai/backfilling-earthing-compund.php" title="Chennai">Chennai</a></div>
+      <div class="location-box"><a href="../ahmedabad/backfilling-earthing-compund.php" title="Ahmedabad">Ahmedabad</a></div>
+      <div class="location-box"><a href="../pune/backfilling-earthing-compund.php" title="Pune">Pune</a></div>
+      <div class="location-box"><a href="../jaipur/backfilling-earthing-compund.php" title="Jaipur">Jaipur</a></div>
+      <div class="location-box"><a href="../lucknow/backfilling-earthing-compund.php" title="Lucknow">Lucknow</a></div>
+      <div class="location-box"><a href="../kanpur/backfilling-earthing-compund.php" title="Kanpur">Kanpur</a></div>
       
     </div>
   </div>

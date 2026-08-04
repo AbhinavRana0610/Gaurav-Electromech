@@ -11,7 +11,7 @@ include('header.php') ?>
     
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/back-fill-compounds.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/back-fill-compounds.avif" alt="Backfill Earthing Compound" title="Backfill Earthing Compound"></div>
   </div>
 </div>
 
@@ -57,7 +57,7 @@ include('header.php') ?>
                     <p>We are a top Backfilling Earthing Compound manufacturer in Madhya Pradesh, providing high-quality compounds for improving earthing system conductivity and efficiency. Our Backfilling Earthing Compound manufacturer in Madhya Pradesh products use superior-quality carbon-based and bentonite-based material, resulting in low resistance, long-lasting performance, and durability. Our compounds are suitable for use in industrial, commercial, and domestic installations and provide stable earthing solutions in Madhya Pradesh.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/back-fill-compound.jpg" alt="Backfill Earthing Compound">
+                    <img src="../img/back-fill-compound.jpg" alt="Backfill Earthing Compound" title="Backfill Earthing Compound">
                 </div>
             </div>
         </div>
@@ -152,7 +152,7 @@ Being a known Backfilling Earthing Compound supplier in Madhya Pradesh, we offer
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Carbon-Based Compounds">
+                        <img src="../img/back-fill-compound.jpg" alt="Carbon-Based Compounds" title="Carbon-Based Compounds">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-atom"></i>
@@ -172,7 +172,7 @@ Being a known Backfilling Earthing Compound supplier in Madhya Pradesh, we offer
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Bentonite Compounds">
+                        <img src="../img/back-fill-compound.jpg" alt="Bentonite Compounds" title="Bentonite Compounds">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tint"></i>
@@ -192,7 +192,7 @@ Being a known Backfilling Earthing Compound supplier in Madhya Pradesh, we offer
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Eco-Friendly Materials">
+                        <img src="../img/back-fill-compound.jpg" alt="Eco-Friendly Materials" title="Eco-Friendly Materials">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-leaf"></i>
@@ -212,7 +212,7 @@ Being a known Backfilling Earthing Compound supplier in Madhya Pradesh, we offer
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Standard Packaging">
+                        <img src="../img/back-fill-compound.jpg" alt="Standard Packaging" title="Standard Packaging">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-box"></i>

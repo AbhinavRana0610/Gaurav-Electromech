@@ -85,7 +85,7 @@
                     </div>
                 </div>
                 <div class="about-image">
-                    <img src="img/earth-bar-in-the-lightning-protection-system-2048x1093.png" alt="Technical Excellence">
+                    <img src="img/earth-bar-in-the-lightning-protection-system-2048x1093.png" alt="Technical Excellence" title="Technical Excellence">
                 </div>
             </div>
         </div>
@@ -122,7 +122,7 @@
                     </div>
                 </div>
                 <div class="profile-image">
-                    <img src="https://images.pexels.com/photos/11645013/pexels-photo-11645013.jpeg" alt="Professional Team">
+                    <img src="https://images.pexels.com/photos/11645013/pexels-photo-11645013.jpeg" alt="Professional Team" title="Professional Team">
                 </div>
             </div>
         </div>
@@ -191,7 +191,7 @@
                     <p>Business and relationship is growth with <strong>"TRUST"</strong> and <strong>"SATISFACTION"</strong> and we work with that. That's why we growth in our business and make our customers satisfy and make long term Relationship with us.</p>
                 </div>
                 <div class="founders-image">
-                    <img src="img/earthing-installation-2.jpg" alt="Founders Team">
+                    <img src="img/earthing-installation-2.jpg" alt="Founders Team" title="Founders Team">
                 </div>
             </div>
         </div>
@@ -238,7 +238,7 @@
                     <p>Effective power transmission is guaranteed by our high-conductivity copper wires and strips, and reliable performance is provided even under challenging circumstances by chemical earthing and backfill compounds. Our product line complements one another to improve your operations and guarantee continuous performance.</p>
                 </div>
                 <div class="work-image">
-                    <img src="img/ufer-grounding.jpg" alt="Manufacturing Process">
+                    <img src="img/ufer-grounding.jpg" alt="Manufacturing Process" title="Manufacturing Process">
                 </div>
             </div>
         </div>
@@ -266,7 +266,7 @@
                 <!-- Lightning Protection Products -->
                 <div class="product-card" data-category="lightning">
                     <div class="product-image">
-                    <img src="img/img130.jpg" alt="ESE Lightning Arrester">
+                    <img src="img/img130.jpg" alt="ESE Lightning Arrester" title="ESE Lightning Arrester">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-bolt"></i>
@@ -286,7 +286,7 @@
 
                 <div class="product-card" data-category="lightning">
                     <div class="product-image">
-                    <img src="img/img122.jpg" alt="Lightning Protection System">
+                    <img src="img/img122.jpg" alt="Lightning Protection System" title="Lightning Protection System">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-bolt"></i>
@@ -306,7 +306,7 @@
 
                 <div class="product-card" data-category="lightning">
                     <div class="product-image">
-                    <img src="img/img150.jpg" alt="GI Wire">
+                    <img src="img/img150.jpg" alt="GI Wire" title="GI Wire">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-bolt"></i>
@@ -327,7 +327,7 @@
                 <!-- Earthing Systems -->
                 <div class="product-card" data-category="earthing">
                     <div class="product-image">
-                    <img src="img/img137.jpg" alt="Earthing Systems">
+                    <img src="img/img137.jpg" alt="Earthing Systems" title="Earthing Systems">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-plug"></i>
@@ -347,7 +347,7 @@
 
                 <div class="product-card" data-category="earthing">
                     <div class="product-image">
-                    <img src="img/img124.jpg" alt="Chemical Earthing Electrode">
+                    <img src="img/img124.jpg" alt="Chemical Earthing Electrode" title="Chemical Earthing Electrode">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-plug"></i>
@@ -367,7 +367,7 @@
 
                 <div class="product-card" data-category="earthing">
                     <div class="product-image">
-                    <img src="img/img135.jpg" alt="Copper Plated Earthing ">
+                    <img src="img/img135.jpg" alt="Copper Plated Earthing " title="Copper Plated Earthing">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-plug"></i>
@@ -388,7 +388,7 @@
                 <!-- Cable Management -->
                 <div class="product-card" data-category="cables">
                     <div class="product-image">
-                    <img src="img/img139.jpg" alt="Cable Trays">
+                    <img src="img/img139.jpg" alt="Cable Trays" title="Cable Trays">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-project-diagram"></i>
@@ -408,7 +408,7 @@
 
                 <div class="product-card" data-category="cables">
                     <div class="product-image">
-                    <img src="img/img152.jpg" alt="Copper Wire & Strip">
+                    <img src="img/img152.jpg" alt="Copper Wire & Strip" title="Copper Wire &amp; Strip">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ethernet"></i>
@@ -428,7 +428,7 @@
 
                 <div class="product-card" data-category="cables">
                     <div class="product-image">
-                    <img src="img/img148.jpg" alt="GI Strip">
+                    <img src="img/img148.jpg" alt="GI Strip" title="GI Strip">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -449,7 +449,7 @@
                 <!-- Slotted Angle Rack -->
                 <div class="product-card" data-category="safety">
                     <div class="product-image">
-                    <img src="img/img141.jpg" alt="Slotted Angle Racks">
+                    <img src="img/img141.jpg" alt="Slotted Angle Racks" title="Slotted Angle Racks">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-hard-hat"></i>
@@ -469,7 +469,7 @@
 
                 <div class="product-card" data-category="safety">
                     <div class="product-image">
-                    <img src="img/img146.jpg" alt="Earthing Pitcover PVC">
+                    <img src="img/img146.jpg" alt="Earthing Pitcover PVC" title="Earthing Pitcover PVC">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -489,7 +489,7 @@
 
                 <div class="product-card" data-category="panels">
                     <div class="product-image">
-                    <img src="img/img163.jpg" alt="Transformers">
+                    <img src="img/img163.jpg" alt="Transformers" title="Transformers">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-bolt"></i>
@@ -510,7 +510,7 @@
                 <!-- Additional Products -->
                 <div class="product-card" data-category="earthing">
                     <div class="product-image">
-<img src="img/back-fill-compound.jpg" alt="Backfill Compound">
+<img src="img/back-fill-compound.jpg" alt="Backfill Compound" title="Backfill Compound">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-mountain"></i>
@@ -530,7 +530,7 @@
 
                 <div class="product-card" data-category="safety">
                     <div class="product-image">
-                    <img src="img/img157.jpg" alt="CCTV Camera">
+                    <img src="img/img157.jpg" alt="CCTV Camera" title="CCTV Camera">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-video"></i>
@@ -550,7 +550,7 @@
 
                 <div class="product-card" data-category="panels">
                     <div class="product-image">
-                    <img src="img/img159.jpg" alt="Street Light Poles">
+                    <img src="img/img159.jpg" alt="Street Light Poles" title="Street Light Poles">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-lightbulb"></i>
@@ -574,7 +574,7 @@
                 <div class="modal-content modal-two-column">
                     <span class="close-button" id="modal-close">&times;</span>
                     <div class="modal-image-container">
-                        <img id="modal-product-image" src="" alt="Product Image">
+                        <img id="modal-product-image" src="" alt="Product Image" title="Product Image">
                     </div>
                     <div class="modal-text-content">
                         <h3 id="modal-product-title">Product Title</h3>
@@ -857,7 +857,7 @@
                     <p>We provide more than just products; we provide performance that drives advancement through adaptive customization, dependable delivery, and proactive support.</p>
                 </div>
                 <div class="edge-image">
-                    <img src="img/earth-bar-in-the-lightning-protection-system.png" alt="Team Excellence">
+                    <img src="img/earth-bar-in-the-lightning-protection-system.png" alt="Team Excellence" title="Team Excellence">
                 </div>
             </div>
         </div>
@@ -870,8 +870,8 @@
                 <h2>Select Gaurav Electromech: Where Brilliance Shines Through Every Product</h2>
                 <p>Ready to power your projects with reliable, innovative electrical solutions?</p>
                 <div class="cta-buttons">
-                    <a href="#contact" class="btn btn-primary">Get Quote Now</a>
-                    <a href="#products" class="btn btn-secondary">View All Products</a>
+                    <a href="#contact" title="Get Quote Now" class="btn btn-primary">Get Quote Now</a>
+                    <a href="#products" title="View All Products" class="btn btn-secondary">View All Products</a>
                 </div>
             </div>
         </div>
@@ -885,40 +885,40 @@
                 <div class="section-subtitle">Trusted by leading companies</div>
             </div>
             <div class="clients-logos">
-                <img src="img/img264.jpg" alt="Milestone" class="client-logo">
-                <img src="img/img266.jpg" alt="Airtel" class="client-logo">
-                <img src="img/img268.jpg" alt="PVR Cinemas" class="client-logo">
-                <img src="img/img270.jpg" alt="Air India" class="client-logo">
-                <img src="img/img272.jpg" alt="NPCIL" class="client-logo">
-                <img src="img/img274.jpg" alt="Big Cinemas" class="client-logo">
-                <img src="img/img276.jpg" alt="Global IME Bank" class="client-logo">
-                <img src="img/img278.jpg" alt="ACME" class="client-logo">
-                <img src="img/img280.jpg" alt="Continental Contitech" class="client-logo">
-                <img src="img/img282.jpg" alt="TIFR" class="client-logo">
-                <img src="img/img284.jpg" alt="Dainik Bhaskar" class="client-logo">
-                <img src="img/img289.jpg" alt="NTPC" class="client-logo">
-                <img src="img/img291.jpg" alt="Shoppers Stop" class="client-logo">
-                <img src="img/img295.jpg" alt="LIC" class="client-logo">
-                <img src="img/img297.jpg" alt="Essar" class="client-logo">
-                <img src="img/img299.jpg" alt="NACO" class="client-logo">
-                <img src="img/img301.jpg" alt="Indian Oil" class="client-logo">
-                <img src="img/img303.jpg" alt="BBNL" class="client-logo">
-                <img src="img/img305.jpg" alt="Milestone" class="client-logo">
-                <img src="img/img307.jpg" alt="Airtel" class="client-logo">
-                <img src="img/img309.jpg" alt="PVR Cinemas" class="client-logo">
-                <img src="img/img313.jpg" alt="NPCIL" class="client-logo">
-                <img src="img/img318.jpg" alt="Big Cinemas" class="client-logo">
-                <img src="img/img320.jpg" alt="Global IME Bank" class="client-logo">
-                <img src="img/img322.jpg" alt="ACME" class="client-logo">
-                <img src="img/img324.jpg" alt="Continental Contitech" class="client-logo">
-                <img src="img/img326.jpg" alt="TIFR" class="client-logo">
-                <img src="img/img328.jpg" alt="Dainik Bhaskar" class="client-logo">
-                <img src="img/img330.jpg" alt="NTPC" class="client-logo">
-                <img src="img/img332.jpg" alt="Shoppers Stop" class="client-logo">
-                <img src="img/img334.jpg" alt="ONGC" class="client-logo">
-                <img src="img/img336.jpg" alt="LIC" class="client-logo">
-                <img src="img/img338.jpg" alt="Essar" class="client-logo">
-                <img src="img/img340.jpg" alt="NACO" class="client-logo">
+                <img src="img/img264.jpg" alt="Milestone" title="Milestone" class="client-logo">
+                <img src="img/img266.jpg" alt="Airtel" title="Airtel" class="client-logo">
+                <img src="img/img268.jpg" alt="PVR Cinemas" title="PVR Cinemas" class="client-logo">
+                <img src="img/img270.jpg" alt="Air India" title="Air India" class="client-logo">
+                <img src="img/img272.jpg" alt="NPCIL" title="NPCIL" class="client-logo">
+                <img src="img/img274.jpg" alt="Big Cinemas" title="Big Cinemas" class="client-logo">
+                <img src="img/img276.jpg" alt="Global IME Bank" title="Global IME Bank" class="client-logo">
+                <img src="img/img278.jpg" alt="ACME" title="ACME" class="client-logo">
+                <img src="img/img280.jpg" alt="Continental Contitech" title="Continental Contitech" class="client-logo">
+                <img src="img/img282.jpg" alt="TIFR" title="TIFR" class="client-logo">
+                <img src="img/img284.jpg" alt="Dainik Bhaskar" title="Dainik Bhaskar" class="client-logo">
+                <img src="img/img289.jpg" alt="NTPC" title="NTPC" class="client-logo">
+                <img src="img/img291.jpg" alt="Shoppers Stop" title="Shoppers Stop" class="client-logo">
+                <img src="img/img295.jpg" alt="LIC" title="LIC" class="client-logo">
+                <img src="img/img297.jpg" alt="Essar" title="Essar" class="client-logo">
+                <img src="img/img299.jpg" alt="NACO" title="NACO" class="client-logo">
+                <img src="img/img301.jpg" alt="Indian Oil" title="Indian Oil" class="client-logo">
+                <img src="img/img303.jpg" alt="BBNL" title="BBNL" class="client-logo">
+                <img src="img/img305.jpg" alt="Milestone" title="Milestone" class="client-logo">
+                <img src="img/img307.jpg" alt="Airtel" title="Airtel" class="client-logo">
+                <img src="img/img309.jpg" alt="PVR Cinemas" title="PVR Cinemas" class="client-logo">
+                <img src="img/img313.jpg" alt="NPCIL" title="NPCIL" class="client-logo">
+                <img src="img/img318.jpg" alt="Big Cinemas" title="Big Cinemas" class="client-logo">
+                <img src="img/img320.jpg" alt="Global IME Bank" title="Global IME Bank" class="client-logo">
+                <img src="img/img322.jpg" alt="ACME" title="ACME" class="client-logo">
+                <img src="img/img324.jpg" alt="Continental Contitech" title="Continental Contitech" class="client-logo">
+                <img src="img/img326.jpg" alt="TIFR" title="TIFR" class="client-logo">
+                <img src="img/img328.jpg" alt="Dainik Bhaskar" title="Dainik Bhaskar" class="client-logo">
+                <img src="img/img330.jpg" alt="NTPC" title="NTPC" class="client-logo">
+                <img src="img/img332.jpg" alt="Shoppers Stop" title="Shoppers Stop" class="client-logo">
+                <img src="img/img334.jpg" alt="ONGC" title="ONGC" class="client-logo">
+                <img src="img/img336.jpg" alt="LIC" title="LIC" class="client-logo">
+                <img src="img/img338.jpg" alt="Essar" title="Essar" class="client-logo">
+                <img src="img/img340.jpg" alt="NACO" title="NACO" class="client-logo">
             </div>
         </div>
     </section>

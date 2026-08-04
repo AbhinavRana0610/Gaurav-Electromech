@@ -8,7 +8,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="img/gi-strips.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="img/gi-strips.avif" alt="GI Strips" title="GI Strips"></div>
   </div>
 </div>
 
@@ -51,7 +51,7 @@ include('header.php') ?>
                     <p>Our GI strips are renowned for their exceptional durability, strength, and dependable operation in a variety of environmental settings. They are extensively utilized in structural bonding, cable trays, lightning protection systems, and grounding grids.</p>
                 </div>
                 <div class="about-image">
-                    <img src="img/img148.jpg" alt="GI Strips">
+                    <img src="img/img148.jpg" alt="GI Strips" title="GI Strips">
                 </div>
             </div>
         </div>
@@ -143,7 +143,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img148.jpg" alt="Standard GI Strips">
+                        <img src="img/img148.jpg" alt="Standard GI Strips" title="Standard GI Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ruler"></i>
@@ -163,7 +163,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img148.jpg" alt="Custom GI Strips">
+                        <img src="img/img148.jpg" alt="Custom GI Strips" title="Custom GI Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-cogs"></i>
@@ -183,7 +183,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img148.jpg" alt="Zinc Coated Strips">
+                        <img src="img/img148.jpg" alt="Zinc Coated Strips" title="Zinc Coated Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-layer-group"></i>
@@ -203,7 +203,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img148.jpg" alt="GI Strip Accessories">
+                        <img src="img/img148.jpg" alt="GI Strip Accessories" title="GI Strip Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

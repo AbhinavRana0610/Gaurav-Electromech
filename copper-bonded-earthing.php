@@ -1,13 +1,13 @@
 <?php $page_title = "Copper Bonded Earthing Manufacturer in India | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper strip manufacturer in India, offering high-quality copper strips with excellent conductivity for electrical and industrial applications. We specialize in bare copper strips, electrolytic copper strips, and reliable electrical copper strip solutions.";
+$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in India, offering high-quality copper bonded earthing electrodes with excellent conductivity and corrosion resistance for industrial, commercial, and residential applications. We specialize in copper bonded earthing rods, earthing electrodes, and reliable grounding solutions.";
 $keywords = " 
-Copper Strip Manufacturer in India, Best Copper Strip Manufacturer in India, Top Copper Strip Manufacturer in India, Bare Copper Strip Manufacturer in India, Electrical Copper Strip Manufacturer in India, Industrial Copper Strip Manufacturer in India, Leading Copper Strip Manufacturer in India, Reliable Copper Strip Manufacturer in India, Industrial Copper Strip Manufacturer, Electrical Copper Strip Manufacturer, Electrolytic Copper Strip Manufacturer, Bare Copper Strip Manufacturer, Copper Strip Manufacturer";
+Copper Bonded Earthing Manufacturer in India, Best Copper Bonded Earthing Manufacturer in India, Top Copper Bonded Earthing Manufacturer in India, Copper Bonded Earthing Electrode Manufacturer in India, Industrial Copper Bonded Earthing Manufacturer in India, Leading Copper Bonded Earthing Manufacturer in India, Reliable Copper Bonded Earthing Manufacturer in India, Copper Bonded Earthing Rod Manufacturer, Copper Bonded Earthing Electrode Manufacturer, Copper Bonded Ground Rod Manufacturer, Earthing Electrode Manufacturer, Copper Bonded Earthing Manufacturer";
 
 include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="img/copper-bond-earthing.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="img/copper-bond-earthing.avif" alt="Copper Bonded Earthing Electrode" title="Copper Bonded Earthing Electrode"></div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ include('header.php') ?>
                     <p>To safeguard electrical infrastructure and human life against fault currents and lightning surges, our Copper Bonded Earthing solutions are extensively utilized in power plants, businesses, data centers, telecom towers, and residential complexes.</p>
                 </div>
                 <div class="about-image">
-                    <img src="img/img124.jpg" alt="Copper Bonded Earthing">
+                    <img src="img/img124.jpg" alt="Copper Bonded Earthing" title="Copper Bonded Earthing">
                 </div>
             </div>
         </div>
@@ -142,7 +142,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img124.jpg" alt="Copper Bonded Earthing Electrodes">
+                        <img src="img/img124.jpg" alt="Copper Bonded Earthing Electrodes" title="Copper Bonded Earthing Electrodes">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-plug"></i>
@@ -162,7 +162,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/back-fill-compound.jpg" alt="Backfill Compounds">
+                        <img src="img/back-fill-compound.jpg" alt="Backfill Compounds" title="Backfill Compounds">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-mountain"></i>
@@ -182,7 +182,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img146.jpg" alt="Pit Covers">
+                        <img src="img/img146.jpg" alt="Pit Covers" title="Pit Covers">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -202,7 +202,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img148.jpg" alt="Earthing Accessories">
+                        <img src="img/img148.jpg" alt="Earthing Accessories" title="Earthing Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

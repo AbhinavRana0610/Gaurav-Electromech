@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/copper-bond-earthing.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/copper-bond-earthing.avif" alt="Copper Bonded Earthing Electrode" title="Copper Bonded Earthing Electrode"></div>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ include('header.php') ?>
                     <p>We are one of the top Copper Bonded Earthing manufacturers in Sri Lanka, providing superior grounding solutions for trustworthy electrical safety. Our Sri Lanka Copper Bonded Earthing manufacturer products are constructed with high-quality copper and steel cores, ensuring superior conductivity, minimum resistance, and durable performance. Applicable for industrial, commercial, and residential usage, our copper bonded earthing systems provide superior protection throughout Sri Lanka.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img124.jpg" alt="Copper Bonded Earthing">
+                    <img src="../img/img124.jpg" alt="Copper Bonded Earthing" title="Copper Bonded Earthing">
                 </div>
             </div>
         </div>
@@ -141,7 +141,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img124.jpg" alt="Copper Bonded Earthing Electrodes">
+                        <img src="../img/img124.jpg" alt="Copper Bonded Earthing Electrodes" title="Copper Bonded Earthing Electrodes">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-plug"></i>
@@ -161,7 +161,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Backfill Compounds">
+                        <img src="../img/back-fill-compound.jpg" alt="Backfill Compounds" title="Backfill Compounds">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-mountain"></i>
@@ -181,7 +181,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Pit Covers">
+                        <img src="../img/img146.jpg" alt="Pit Covers" title="Pit Covers">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -201,7 +201,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Earthing Accessories">
+                        <img src="../img/img148.jpg" alt="Earthing Accessories" title="Earthing Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

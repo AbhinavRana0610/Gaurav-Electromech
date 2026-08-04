@@ -8,7 +8,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/earthing-pitcover-pvc.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/earthing-pitcover-pvc.avif" alt="PVC Earthing Pit Cover" title="PVC Earthing Pit Cover"></div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ include('header.php') ?>
                     <p>We are a top Earthing Pit Covers manufacturer in Nepal, delivering high-quality protective earthing pit covers and electrical grounding system covers. Our Earthing Pit Covers manufacturer in Nepal products are manufactured using quality materials like plastic, FRP, and concrete, providing durability, corrosion resistance, and long-term performance. Suitable for industrial, commercial, and residential use, our earthing pit covers are international standard and provide dependable protection throughout Nepal.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img146.jpg" alt="Earthing Pit Covers">
+                    <img src="../img/img146.jpg" alt="Earthing Pit Covers" title="Earthing Pit Covers">
                 </div>
             </div>
         </div>
@@ -140,7 +140,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Plastic Pit Covers">
+                        <img src="../img/img146.jpg" alt="Plastic Pit Covers" title="Plastic Pit Covers">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -160,7 +160,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="FRP Pit Covers">
+                        <img src="../img/img146.jpg" alt="FRP Pit Covers" title="FRP Pit Covers">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-industry"></i>
@@ -180,7 +180,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Concrete Pit Covers">
+                        <img src="../img/img146.jpg" alt="Concrete Pit Covers" title="Concrete Pit Covers">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-building"></i>
@@ -200,7 +200,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Lockable Covers">
+                        <img src="../img/img146.jpg" alt="Lockable Covers" title="Lockable Covers">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-lock"></i>
@@ -220,7 +220,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Custom Covers">
+                        <img src="../img/img146.jpg" alt="Custom Covers" title="Custom Covers">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-cogs"></i>

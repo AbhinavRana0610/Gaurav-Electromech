@@ -8,7 +8,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/gi-strips.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/gi-strips.avif" alt="GI Strips" title="GI Strips"></div>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ We are a prominent GI Strips manufacturer in Madhya Pradesh, offering superior q
 </p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img148.jpg" alt="GI Strips">
+                    <img src="../img/img148.jpg" alt="GI Strips" title="GI Strips">
                 </div>
             </div>
         </div>
@@ -144,7 +144,7 @@ We are a prominent GI Strips manufacturer in Madhya Pradesh, offering superior q
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Standard GI Strips">
+                        <img src="../img/img148.jpg" alt="Standard GI Strips" title="Standard GI Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ruler"></i>
@@ -164,7 +164,7 @@ We are a prominent GI Strips manufacturer in Madhya Pradesh, offering superior q
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Custom GI Strips">
+                        <img src="../img/img148.jpg" alt="Custom GI Strips" title="Custom GI Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-cogs"></i>
@@ -184,7 +184,7 @@ We are a prominent GI Strips manufacturer in Madhya Pradesh, offering superior q
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Zinc Coated Strips">
+                        <img src="../img/img148.jpg" alt="Zinc Coated Strips" title="Zinc Coated Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-layer-group"></i>
@@ -204,7 +204,7 @@ We are a prominent GI Strips manufacturer in Madhya Pradesh, offering superior q
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="GI Strip Accessories">
+                        <img src="../img/img148.jpg" alt="GI Strip Accessories" title="GI Strip Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

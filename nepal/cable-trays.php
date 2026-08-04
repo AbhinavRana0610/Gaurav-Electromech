@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/cable-trays.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/cable-trays.avif" alt="Cable Trays" title="Cable Trays"></div>
   </div>
 </div>
     <!-- Hero Section -->
@@ -48,7 +48,7 @@ include('header.php') ?>
                     <p>We are a top Cable Trays manufacturer in Nepal , offering superior-quality cable management systems that provide efficient, safe, and organized electrical installations. Our Cable Trays manufacturer in Nepal solutions are manufactured from high-grade materials, ensuring strength, corrosion proof, and long-lasting performance. For industrial, commercial, and domestic applications, our cable trays meet international standards and ensure effective support to all varieties of electrical cabling in Nepal.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img139.jpg" alt="Cable Trays">
+                    <img src="../img/img139.jpg" alt="Cable Trays" title="Cable Trays">
                 </div>
             </div>
         </div>
@@ -131,7 +131,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Perforated Cable Trays">
+                        <img src="../img/img139.jpg" alt="Perforated Cable Trays" title="Perforated Cable Trays">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-project-diagram"></i>
@@ -151,7 +151,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Ladder-Type Cable Trays">
+                        <img src="../img/img139.jpg" alt="Ladder-Type Cable Trays" title="Ladder-Type Cable Trays">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-project-diagram"></i>
@@ -171,7 +171,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Solid Bottom Cable Trays">
+                        <img src="../img/img139.jpg" alt="Solid Bottom Cable Trays" title="Solid Bottom Cable Trays">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -191,7 +191,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Wire Mesh Trays">
+                        <img src="../img/img139.jpg" alt="Wire Mesh Trays" title="Wire Mesh Trays">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ethernet"></i>
@@ -211,7 +211,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Raceways">
+                        <img src="../img/img139.jpg" alt="Raceways" title="Raceways">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-road"></i>
@@ -231,7 +231,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Cable Tray Accessories">
+                        <img src="../img/img139.jpg" alt="Cable Tray Accessories" title="Cable Tray Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

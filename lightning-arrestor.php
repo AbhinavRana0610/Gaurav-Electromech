@@ -1,5 +1,5 @@
 <?php $page_title = "lightning arrestor manufacturers in India.";
-$description = "A reputable brand in electrical protection systems, Gaurav Electromech provides incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
+$description = "A reputable brand in electrical protection systems, Gaurav Electromech is a trusted lightning arrestor manufacturer in India, providing incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
 $keywords = " 
 Lightning Arrestor Manufacturers in India,Best Lightning Arrestor Manufacturers in India,Top Lightning Arrestor Manufacturers in India,ESE Lightning Arrestor Manufacturers in India,Industrial Lightning Arrestor Suppliers in India,Building Lightning Protection System in India,Surge Protection and Lightning Arrestor Supplier in India,Reliable Lightning Protection Solutions Provider in India,Building Lightning Protection System in India,Surge Protection Device,Earthing Equipment,ESE Lightning Arrestor,Lightning Protection System,Lightning Arrestor,Surge protection and lightning arrestor manufacturers in India,Residential lightning arrestor manufacturers in India";
 
@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="img/lightning-arresters.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="img/lightning-arresters.avif" alt="Lightning Arresters" title="Lightning Arresters"></div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ include('header.php') ?>
                     <p>In order to securely redirect lightning currents into the earth and avoid structural and electrical damage, our lightning arrestors are extensively utilized in residential towers, industrial facilities, telecommunications sites, and commercial structures.</p>
                 </div>
                 <div class="about-image">
-                    <img src="img/img122.jpg" alt="Lightning Arrestors">
+                    <img src="img/img122.jpg" alt="Lightning Arrestors" title="Lightning Arrestors">
                 </div>
             </div>
         </div>
@@ -142,7 +142,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img130.jpg" alt="ESE Lightning Arrestors">
+                        <img src="img/img130.jpg" alt="ESE Lightning Arrestors" title="ESE Lightning Arrestors">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-bolt"></i>
@@ -162,7 +162,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img122.jpg" alt="Spike Type Arrestors">
+                        <img src="img/img122.jpg" alt="Spike Type Arrestors" title="Spike Type Arrestors">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-mountain"></i>
@@ -182,7 +182,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img122.jpg" alt="Mast and Multi-Rod Arrestors">
+                        <img src="img/img122.jpg" alt="Mast and Multi-Rod Arrestors" title="Mast and Multi-Rod Arrestors">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-building"></i>
@@ -202,7 +202,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img148.jpg" alt="Installation Accessories">
+                        <img src="img/img148.jpg" alt="Installation Accessories" title="Installation Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>
@@ -222,7 +222,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img137.jpg" alt="Custom Solutions">
+                        <img src="img/img137.jpg" alt="Custom Solutions" title="Custom Solutions">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-cogs"></i>

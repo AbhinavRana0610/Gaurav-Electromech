@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/copper-strip.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/copper-strip.avif" alt="Copper Strips" title="Copper Strips"></div>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ include('header.php') ?>
                     <p>We are a prominent Copper Strips manufacturer in Karnataka, exporting high-quality copper strips for electrical and grounding usage. Our Karnataka Copper Strips manufacturer products are produced using high-purity electrolytic copper that offers excellent conductivity, durability, and resistance to corrosion. Applicable for industrial, commercial, and residential construction, our copper strips provide assured performance in Karnataka.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img152.jpg" alt="Copper Strips">
+                    <img src="../img/img152.jpg" alt="Copper Strips" title="Copper Strips">
                 </div>
             </div>
         </div>
@@ -141,7 +141,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Electrolytic Copper Strips">
+                        <img src="../img/img152.jpg" alt="Electrolytic Copper Strips" title="Electrolytic Copper Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-industry"></i>
@@ -161,7 +161,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Bare and Tinned Copper Strips">
+                        <img src="../img/img152.jpg" alt="Bare and Tinned Copper Strips" title="Bare and Tinned Copper Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-layer-group"></i>
@@ -181,7 +181,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Soft and Semi-Hard Copper">
+                        <img src="../img/img152.jpg" alt="Soft and Semi-Hard Copper" title="Soft and Semi-Hard Copper">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-adjust"></i>
@@ -201,7 +201,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Custom Copper Strips">
+                        <img src="../img/img152.jpg" alt="Custom Copper Strips" title="Custom Copper Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ruler-combined"></i>
@@ -221,7 +221,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Copper Strip Accessories">
+                        <img src="../img/img152.jpg" alt="Copper Strip Accessories" title="Copper Strip Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

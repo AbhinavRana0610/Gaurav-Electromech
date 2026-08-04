@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/chemical-earthing-electrode.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/chemical-earthing-electrode.avif" alt="Chemical Earthing Electrode" title="Chemical Earthing Electrode"></div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ include('header.php') ?>
                     <p>As a leading chemical earthing manufacturer in Lucknow, we follow strict quality control procedures to ensure every product delivers reliable and consistent performance. Our chemical earthing solutions are widely used in industries, power plants, hospitals, telecom towers, data centres, commercial buildings, and residential projects. Through advanced manufacturing, timely production, and professional support, Earthing Manufacturers serves customers across Lucknow.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img124.jpg" alt="Chemical Earthing">
+                    <img src="../img/img124.jpg" alt="Chemical Earthing" title="Chemical Earthing">
                 </div>
             </div>
         </div>
@@ -148,7 +148,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img124.jpg" alt="Chemical Earthing Electrodes">
+                        <img src="../img/img124.jpg" alt="Chemical Earthing Electrodes" title="Chemical Earthing Electrodes">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-plug"></i>
@@ -168,7 +168,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Backfill Compounds">
+                        <img src="../img/back-fill-compound.jpg" alt="Backfill Compounds" title="Backfill Compounds">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-mountain"></i>
@@ -188,7 +188,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Pit Covers">
+                        <img src="../img/img146.jpg" alt="Pit Covers" title="Pit Covers">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -208,7 +208,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Earthing Accessories">
+                        <img src="../img/img148.jpg" alt="Earthing Accessories" title="Earthing Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

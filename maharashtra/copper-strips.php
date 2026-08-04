@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/copper-strip.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/copper-strip.avif" alt="Copper Strips" title="Copper Strips"></div>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ include('header.php') ?>
                     <p>We are a prominent Copper Strips manufacturer in Maharashtra, providing superior quality copper strips for electrical and grounding purposes. Our Maharashtra Copper Strips manufacturer products are produced using high-purity electrolytic copper, making them highly conductive, long-lasting, and resistant to corrosion. Our copper strips are suitable for use in industrial, commercial, as well as residential projects and provide reliable performance in Maharashtra.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img152.jpg" alt="Copper Strips">
+                    <img src="../img/img152.jpg" alt="Copper Strips" title="Copper Strips">
                 </div>
             </div>
         </div>
@@ -143,7 +143,7 @@ Being a well-known Copper Strips supplier in Maharashtra, we offer end-to-end so
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Electrolytic Copper Strips">
+                        <img src="../img/img152.jpg" alt="Electrolytic Copper Strips" title="Electrolytic Copper Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-industry"></i>
@@ -163,7 +163,7 @@ Being a well-known Copper Strips supplier in Maharashtra, we offer end-to-end so
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Bare and Tinned Copper Strips">
+                        <img src="../img/img152.jpg" alt="Bare and Tinned Copper Strips" title="Bare and Tinned Copper Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-layer-group"></i>
@@ -183,7 +183,7 @@ Being a well-known Copper Strips supplier in Maharashtra, we offer end-to-end so
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Soft and Semi-Hard Copper">
+                        <img src="../img/img152.jpg" alt="Soft and Semi-Hard Copper" title="Soft and Semi-Hard Copper">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-adjust"></i>
@@ -203,7 +203,7 @@ Being a well-known Copper Strips supplier in Maharashtra, we offer end-to-end so
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Custom Copper Strips">
+                        <img src="../img/img152.jpg" alt="Custom Copper Strips" title="Custom Copper Strips">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ruler-combined"></i>
@@ -223,7 +223,7 @@ Being a well-known Copper Strips supplier in Maharashtra, we offer end-to-end so
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Copper Strip Accessories">
+                        <img src="../img/img152.jpg" alt="Copper Strip Accessories" title="Copper Strip Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

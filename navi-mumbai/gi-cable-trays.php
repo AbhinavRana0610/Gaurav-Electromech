@@ -1,5 +1,5 @@
 <?php $page_title = "GI Cable Trays Manufacturer in Navi Mumbai | Gaurav Electromech";
-$description = "A well-known brand in the electrical and industrial infrastructure space, Gaurav Electromech provides sturdy, corrosion-resistant GI cable trays for well-organized cable management.";
+$description = "A well-known brand in the electrical and industrial infrastructure space, Gaurav Electromech is a trusted GI cable tray manufacturer in Navi Mumbai, providing sturdy, corrosion-resistant GI cable trays for well-organized cable management.";
 $keywords = " 
 GI Cable Trays Manufacturer in Navi Mumbai,Best GI Cable Trays Manufacturer in Navi Mumbai,Top GI Cable Trays Manufacturer in Navi Mumbai,Perforated GI Cable Trays Manufacturer in Navi Mumbai,Ladder Type GI Cable Trays Manufacturer in Navi Mumbai,Industrial GI Cable Trays Manufacturer in Navi Mumbai,Leading GI Cable Trays Manufacturer in Navi Mumbai,Reliable GI Cable Trays Manufacturer in Navi Mumbai,Galvanized Cable Trays Manufacturer,Electrical GI Cable Trays Manufacturer,Ladder GI Cable Trays Manufacturer,Perforated GI Cable Trays Manufacturer";
 
@@ -9,7 +9,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/gi-cable-trays.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/gi-cable-trays.avif" alt="GI Cable Trays" title="GI Cable Trays"></div>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ include('header.php') ?>
                     <p>As a leading GI cable trays manufacturer in Navi Mumbai, we manufacture cable trays in various sizes and specifications to suit different installation requirements. Our products are widely used in factories, commercial buildings, power plants, hospitals, warehouses, and infrastructure developments. With timely production, competitive pricing, and reliable quality, Earthing Manufacturers has become a preferred manufacturing partner in Navi Mumbai.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img139.jpg" alt="GI Cable Trays">
+                    <img src="../img/img139.jpg" alt="GI Cable Trays" title="GI Cable Trays">
                 </div>
             </div>
         </div>
@@ -150,7 +150,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Ladder & Perforated GI Trays">
+                        <img src="../img/img139.jpg" alt="Ladder & Perforated GI Trays" title="Ladder &amp; Perforated GI Trays">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-project-diagram"></i>
@@ -170,7 +170,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Trunkings and Raceways">
+                        <img src="../img/img139.jpg" alt="Trunkings and Raceways" title="Trunkings and Raceways">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -190,7 +190,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="GI Cable Tray Accessories">
+                        <img src="../img/img139.jpg" alt="GI Cable Tray Accessories" title="GI Cable Tray Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>
@@ -210,7 +210,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Custom Galvanized Finishes">
+                        <img src="../img/img139.jpg" alt="Custom Galvanized Finishes" title="Custom Galvanized Finishes">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-spray-can"></i>

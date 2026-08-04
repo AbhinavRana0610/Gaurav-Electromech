@@ -1,5 +1,5 @@
 <?php $page_title = "lightning arrestor manufacturers in Madhya Pradesh.";
-$description = "A reputable brand in electrical protection systems, Gaurav Electromech provides incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
+$description = "A reputable brand in electrical protection systems, Gaurav Electromech is a trusted lightning arrestor manufacturer in Madhya Pradesh, providing incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
 $keywords = " 
 Lightning Arrestor Manufacturers in Madhya Pradesh,Best Lightning Arrestor Manufacturers in Madhya Pradesh,Top Lightning Arrestor Manufacturers in Madhya Pradesh,ESE Lightning Arrestor Manufacturers in Madhya Pradesh,Industrial Lightning Arrestor Suppliers in Madhya Pradesh,Building Lightning Protection System in Madhya Pradesh,Surge Protection and Lightning Arrestor Supplier in Madhya Pradesh,Reliable Lightning Protection Solutions Provider in Madhya Pradesh,Building Lightning Protection System in Madhya Pradesh,Surge Protection Device,Earthing Equipment,ESE Lightning Arrestor,Lightning Protection System,Lightning Arrestor,Surge protection and lightning arrestor manufacturers in Madhya Pradesh,Residential lightning arrestor manufacturers in Madhya Pradesh";
 
@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/lightning-arresters.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/lightning-arresters.avif" alt="Lightning Arresters" title="Lightning Arresters"></div>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ include('header.php') ?>
                     <p>We are a prominent Lightning Arrestor supplier in Madhya Pradesh, providing superior quality lightning arrestors for industrial, commercial, and residential use. Our Lightning Arrestor supplier in Madhya Pradesh devices are designed with high-quality materials, meeting requirements for durability, safety, and long-lasting performance. Safeguard your buildings efficiently with our state-of-the-art lightning arrestors in all of Madhya Pradesh.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img122.jpg" alt="Lightning Arrestors">
+                    <img src="../img/img122.jpg" alt="Lightning Arrestors" title="Lightning Arrestors">
                 </div>
             </div>
         </div>
@@ -141,7 +141,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img130.jpg" alt="ESE Lightning Arrestors">
+                        <img src="../img/img130.jpg" alt="ESE Lightning Arrestors" title="ESE Lightning Arrestors">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-bolt"></i>
@@ -161,7 +161,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img122.jpg" alt="Spike Type Arrestors">
+                        <img src="../img/img122.jpg" alt="Spike Type Arrestors" title="Spike Type Arrestors">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-mountain"></i>
@@ -181,7 +181,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img122.jpg" alt="Mast and Multi-Rod Arrestors">
+                        <img src="../img/img122.jpg" alt="Mast and Multi-Rod Arrestors" title="Mast and Multi-Rod Arrestors">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-building"></i>
@@ -201,7 +201,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Installation Accessories">
+                        <img src="../img/img148.jpg" alt="Installation Accessories" title="Installation Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>
@@ -221,7 +221,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img137.jpg" alt="Custom Solutions">
+                        <img src="../img/img137.jpg" alt="Custom Solutions" title="Custom Solutions">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-cogs"></i>

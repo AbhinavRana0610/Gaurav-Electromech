@@ -1,5 +1,5 @@
 <?php $page_title = "Lightning Arrestor Manufacturer in Mumbai | Gaurav Electromech";
-$description = "A reputable brand in electrical protection systems, Gaurav Electromech provides incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
+$description = "A reputable brand in electrical protection systems, Gaurav Electromech is a trusted lightning arrestor manufacturer in Mumbai, providing incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
 $keywords = " 
 Lightning Arrestor Manufacturers in Mumbai,Best Lightning Arrestor Manufacturers in Mumbai,Top Lightning Arrestor Manufacturers in Mumbai,ESE Lightning Arrestor Manufacturers in Mumbai,Industrial Lightning Arrestor Suppliers in Mumbai,Building Lightning Protection System in Mumbai,Surge Protection and Lightning Arrestor Supplier in Mumbai,Reliable Lightning Protection Solutions Provider in Mumbai,Building Lightning Protection System in Mumbai,Surge Protection Device,Earthing Equipment,ESE Lightning Arrestor,Lightning Protection System,Lightning Arrestor,Surge protection and lightning arrestor manufacturers in Mumbai,Residential lightning arrestor manufacturers in Mumbai";
 
@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/lightning-arresters.avif" alt="Slide 1"></div>
+    <div class="slide"><img src="../img/lightning-arresters.avif" alt="Lightning Arresters" title="Lightning Arresters"></div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ include('header.php') ?>
                     <p>As a leading lightning arrestor manufacturer in Mumbai, we focus on precision manufacturing, strict quality standards, and customer satisfaction. Every product undergoes comprehensive quality testing before dispatch to ensure dependable performance under different environmental conditions. Through timely production, competitive pricing, and professional technical support, Earthing Manufacturers delivers reliable lightning protection solutions across Mumbai.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img122.jpg" alt="Lightning Arrestors">
+                    <img src="../img/img122.jpg" alt="Lightning Arrestors" title="Lightning Arrestors">
                 </div>
             </div>
         </div>
@@ -148,7 +148,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img130.jpg" alt="ESE Lightning Arrestors">
+                        <img src="../img/img130.jpg" alt="ESE Lightning Arrestors" title="ESE Lightning Arrestors">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-bolt"></i>
@@ -168,7 +168,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img122.jpg" alt="Spike Type Arrestors">
+                        <img src="../img/img122.jpg" alt="Spike Type Arrestors" title="Spike Type Arrestors">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-mountain"></i>
@@ -188,7 +188,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img122.jpg" alt="Mast and Multi-Rod Arrestors">
+                        <img src="../img/img122.jpg" alt="Mast and Multi-Rod Arrestors" title="Mast and Multi-Rod Arrestors">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-building"></i>
@@ -208,7 +208,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Installation Accessories">
+                        <img src="../img/img148.jpg" alt="Installation Accessories" title="Installation Accessories">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>
@@ -228,7 +228,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img137.jpg" alt="Custom Solutions">
+                        <img src="../img/img137.jpg" alt="Custom Solutions" title="Custom Solutions">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-cogs"></i>
