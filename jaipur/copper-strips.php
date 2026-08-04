@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Strips Manufacturer in Jaipur | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper strip manufacturer in Jaipur, offering high-quality copper strips with excellent conductivity for electrical and industrial applications. We specialize in bare copper strips, electrolytic copper strips, and reliable electrical copper strip solutions.";
+$description = "Gaurav Electromech is a leading copper strip manufacturer in Jaipur, offering bare and electrolytic copper strips with excellent conductivity.";
 $keywords = " 
 Copper Strip Manufacturer in Jaipur, Best Copper Strip Manufacturer in Jaipur, Top Copper Strip Manufacturer in Jaipur, Bare Copper Strip Manufacturer in Jaipur, Electrical Copper Strip Manufacturer in Jaipur, Industrial Copper Strip Manufacturer in Jaipur, Leading Copper Strip Manufacturer in Jaipur, Reliable Copper Strip Manufacturer in Jaipur, Industrial Copper Strip Manufacturer, Electrical Copper Strip Manufacturer, Electrolytic Copper Strip Manufacturer, Bare Copper Strip Manufacturer, Copper Strip Manufacturer";
 

@@ -1,5 +1,5 @@
-<?php $page_title = "Chemical Earthing Manufacturer in Jaipur | Gaurav Electromech";
-$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Jaipur, providing strong and effective chemical earthing systems that ensure low-resistance discharge and long-term safety. We specialize in copper bonded chemical earthing, GI chemical earthing, and maintenance-free earthing solutions.";
+<?php $page_title = "Chemical Earthing Manufacturer in Jaipur";
+$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Jaipur, providing copper bonded, GI and maintenance-free chemical earthing systems.";
 $keywords = " 
 Chemical Earthing Manufacturer in Jaipur, Best Chemical Earthing Manufacturer in Jaipur, Top Chemical Earthing Manufacturer in Jaipur, Copper Bonded Chemical Earthing Manufacturer in Jaipur, GI Chemical Earthing Manufacturer in Jaipur, Industrial Chemical Earthing Manufacturer in Jaipur, Leading Chemical Earthing Manufacturer in Jaipur, Reliable Chemical Earthing Manufacturer in Jaipur, Maintenance Free Earthing Manufacturer, GI Earthing Manufacturer, Copper Chemical Earthing Manufacturer, Earthing Electrode Manufacturer, Chemical Earthing Manufacturer";
 

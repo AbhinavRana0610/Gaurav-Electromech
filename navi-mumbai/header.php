@@ -7,7 +7,7 @@
     <?php include dirname(__DIR__) . '/seo-meta.php'; ?>
     <link rel="stylesheet" href="../styles.css">
 
-<meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in Navi Mumbai, offering ESE lightning arrestors, building lightning protection systems, surge protection devices, and earthing equipment. Trusted for industrial and residential lightning safety solutions.'); ?>">
+<meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in Navi Mumbai, offering ESE lightning arrestors, surge protection and earthing equipment.'); ?>">
 
 <meta name="keywords" content="<?php echo htmlspecialchars(isset($keywords) ? $keywords : 'Lightning Arrestor Manufacturers in Navi Mumbai, Best Lightning Arrestor Manufacturers in Navi Mumbai, Top Lightning Arrestor Manufacturers in Navi Mumbai, ESE Lightning Arrestor Manufacturers in Navi Mumbai, Industrial Lightning Arrestor Suppliers in Navi Mumbai, Building Lightning Protection System in Navi Mumbai, Surge Protection and Lightning Arrestor Supplier in Navi Mumbai, Reliable Lightning Protection Solutions Provider in Navi Mumbai, Surge Protection Device, Earthing Equipment, ESE Lightning Arrestor, Lightning Protection System, Surge protection and lightning arrestor manufacturers in Navi Mumbai, Residential lightning arrestor manufacturers in Navi Mumbai'); ?>">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">

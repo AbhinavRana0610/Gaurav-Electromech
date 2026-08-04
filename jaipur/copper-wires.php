@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Wires Manufacturer in Jaipur | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper wire manufacturer in Jaipur, offering high-quality copper wires with excellent conductivity and flexibility for earthing, electrical, and power distribution applications. We specialize in bare copper wires, electrolytic copper wires, and reliable electrical copper wire solutions.";
+$description = "Gaurav Electromech is a leading copper wire manufacturer in Jaipur, offering bare and electrolytic copper wires for earthing and power distribution.";
 $keywords = " 
 Copper Wire Manufacturer in Jaipur, Best Copper Wire Manufacturer in Jaipur, Top Copper Wire Manufacturer in Jaipur, Bare Copper Wire Manufacturer in Jaipur, Electrical Copper Wire Manufacturer in Jaipur, Industrial Copper Wire Manufacturer in Jaipur, Leading Copper Wire Manufacturer in Jaipur, Reliable Copper Wire Manufacturer in Jaipur, Industrial Copper Wire Manufacturer, Electrical Copper Wire Manufacturer, Electrolytic Copper Wire Manufacturer, Bare Copper Wire Manufacturer, Copper Wire Manufacturer";
 

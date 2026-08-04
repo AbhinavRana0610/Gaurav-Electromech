@@ -1,5 +1,5 @@
-<?php $page_title = "Lightning Arrestor Manufacturer in Hyderabad | Gaurav Electromech";
-$description = "A reputable brand in electrical protection systems, Gaurav Electromech is a trusted lightning arrestor manufacturer in Hyderabad, providing incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
+<?php $page_title = "Lightning Arrestor Manufacturer in Hyderabad";
+$description = "Gaurav Electromech is a trusted lightning arrestor manufacturer in Hyderabad, providing dependable lightning arrestors to protect structures and people.";
 $keywords = " 
 Lightning Arrestor Manufacturers in Hyderabad,Best Lightning Arrestor Manufacturers in Hyderabad,Top Lightning Arrestor Manufacturers in Hyderabad,ESE Lightning Arrestor Manufacturers in Hyderabad,Industrial Lightning Arrestor Suppliers in Hyderabad,Building Lightning Protection System in Hyderabad,Surge Protection and Lightning Arrestor Supplier in Hyderabad,Reliable Lightning Protection Solutions Provider in Hyderabad,Building Lightning Protection System in Hyderabad,Surge Protection Device,Earthing Equipment,ESE Lightning Arrestor,Lightning Protection System,Lightning Arrestor,Surge protection and lightning arrestor manufacturers in Hyderabad,Residential lightning arrestor manufacturers in Hyderabad";
 

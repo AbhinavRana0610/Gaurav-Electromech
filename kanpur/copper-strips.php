@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Strips Manufacturer in Kanpur | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper strip manufacturer in Kanpur, offering high-quality copper strips with excellent conductivity for electrical and industrial applications. We specialize in bare copper strips, electrolytic copper strips, and reliable electrical copper strip solutions.";
+$description = "Gaurav Electromech is a leading copper strip manufacturer in Kanpur, offering bare and electrolytic copper strips with excellent conductivity.";
 $keywords = " 
 Copper Strip Manufacturer in Kanpur, Best Copper Strip Manufacturer in Kanpur, Top Copper Strip Manufacturer in Kanpur, Bare Copper Strip Manufacturer in Kanpur, Electrical Copper Strip Manufacturer in Kanpur, Industrial Copper Strip Manufacturer in Kanpur, Leading Copper Strip Manufacturer in Kanpur, Reliable Copper Strip Manufacturer in Kanpur, Industrial Copper Strip Manufacturer, Electrical Copper Strip Manufacturer, Electrolytic Copper Strip Manufacturer, Bare Copper Strip Manufacturer, Copper Strip Manufacturer";
 

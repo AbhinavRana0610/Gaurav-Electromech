@@ -9,7 +9,7 @@
     <link rel="icon" href="img/logo.jpg">
 
   
-<meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in India, offering ESE lightning arrestors, building lightning protection systems, surge protection devices, and earthing equipment. Trusted for industrial and residential lightning safety solutions.'); ?>">
+<meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in India, offering ESE lightning arrestors, surge protection and earthing equipment.'); ?>">
 
 <meta name="keywords" content="<?php echo htmlspecialchars(isset($keywords) ? $keywords : 'Lightning Arrestor Manufacturers in India, Best Lightning Arrestor Manufacturers in India, Top Lightning Arrestor Manufacturers in India, ESE Lightning Arrestor Manufacturers in India, Industrial Lightning Arrestor Suppliers in India, Building Lightning Protection System in India, Surge Protection and Lightning Arrestor Supplier in India, Reliable Lightning Protection Solutions Provider in India, Surge Protection Device, Earthing Equipment, ESE Lightning Arrestor, Lightning Protection System, Surge protection and lightning arrestor manufacturers in India, Residential lightning arrestor manufacturers in India'); ?>">
 

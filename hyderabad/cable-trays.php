@@ -1,5 +1,5 @@
 <?php $page_title = "Cable Trays Manufacturer in Hyderabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading cable tray Manufacturer in Hyderabad, offering durable and efficient cable tray solutions including perforated cable trays, ladder type cable trays, and GI cable trays. Trusted for industrial and electrical cable management systems.";
+$description = "Gaurav Electromech is a leading cable tray manufacturer in Hyderabad, offering perforated, ladder type and GI cable trays for industrial cable management.";
 $keywords = " 
 Cable Trays Manufacturer in Hyderabad, Best Cable Trays Manufacturer in Hyderabad, Top Cable Trays Manufacturer in Hyderabad, Perforated Cable Trays Manufacturer in Hyderabad, Ladder Type Cable Trays Manufacturer in Hyderabad, GI Cable Trays Manufacturer in Hyderabad, Industrial Cable Trays Manufacturer in Hyderabad, Leading Cable Trays Manufacturer in Hyderabad, Reliable Cable Trays Manufacturer in Hyderabad, Electrical Cable Trays Manufacturer, GI Cable Trays Manufacturer, Ladder Cable Trays Manufacturer, Perforated Cable Trays Manufacturer, Cable Trays Manufacturer";
 

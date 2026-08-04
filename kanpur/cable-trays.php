@@ -1,5 +1,5 @@
 <?php $page_title = "Cable Trays Manufacturer in Kanpur | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading cable tray manufacturer in Kanpur, offering durable and efficient cable tray solutions including perforated cable trays, ladder type cable trays, and GI cable trays. Trusted for industrial and electrical cable management systems.";
+$description = "Gaurav Electromech is a leading cable tray manufacturer in Kanpur, offering perforated, ladder type and GI cable trays for industrial cable management.";
 $keywords = " 
 Cable Tray Manufacturer in Kanpur, Best Cable Tray Manufacturer in Kanpur, Top Cable Tray Manufacturer in Kanpur, Perforated Cable Tray Manufacturer in Kanpur, Ladder Type Cable Tray Manufacturer in Kanpur, GI Cable Tray Manufacturer in Kanpur, Industrial Cable Tray Manufacturer in Kanpur, Leading Cable Tray Manufacturer in Kanpur, Reliable Cable Tray Manufacturer in Kanpur, Electrical Cable Tray Manufacturer, GI Cable Tray Manufacturer, Ladder Cable Tray Manufacturer, Perforated Cable Tray Manufacturer, Cable Tray Manufacturer";
 

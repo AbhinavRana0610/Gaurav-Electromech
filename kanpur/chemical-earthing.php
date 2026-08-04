@@ -1,5 +1,5 @@
-<?php $page_title = "Chemical Earthing Manufacturer in Kanpur | Gaurav Electromech";
-$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Kanpur, providing strong and effective chemical earthing systems that ensure low-resistance discharge and long-term safety. We specialize in copper bonded chemical earthing, GI chemical earthing, and maintenance-free earthing solutions.";
+<?php $page_title = "Chemical Earthing Manufacturer in Kanpur";
+$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Kanpur, providing copper bonded, GI and maintenance-free chemical earthing systems.";
 $keywords = " 
 Chemical Earthing Manufacturer in Kanpur, Best Chemical Earthing Manufacturer in Kanpur, Top Chemical Earthing Manufacturer in Kanpur, Copper Bonded Chemical Earthing Manufacturer in Kanpur, GI Chemical Earthing Manufacturer in Kanpur, Industrial Chemical Earthing Manufacturer in Kanpur, Leading Chemical Earthing Manufacturer in Kanpur, Reliable Chemical Earthing Manufacturer in Kanpur, Maintenance Free Earthing Manufacturer, GI Earthing Manufacturer, Copper Chemical Earthing Manufacturer, Earthing Electrode Manufacturer, Chemical Earthing Manufacturer";
 

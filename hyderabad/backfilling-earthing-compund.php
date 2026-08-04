@@ -1,5 +1,5 @@
-<?php $page_title = "Backfilling Earthing Compound Manufacturer in Hyderabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading backfill earthing compound Manufacturer in Hyderabad, offering premium-grade chemical backfill compounds to enhance grounding system performance and conductivity. Trusted for industrial and reliable earthing solutions across Hyderabad.";
+<?php $page_title = "Backfilling Earthing Compound Manufacturer in Hyderabad";
+$description = "Gaurav Electromech is a leading backfill earthing compound manufacturer in Hyderabad, offering premium-grade compounds to enhance grounding performance.";
 $keywords = " 
 Backfilling Earthing Compound Manufacturer in Hyderabad, Best Backfilling Earthing Compound Manufacturer in Hyderabad, Top Backfilling Earthing Compound Manufacturer in Hyderabad, Chemical Backfilling Earthing Compound Manufacturer in Hyderabad, Ground Enhancement Backfilling Compound Manufacturer in Hyderabad, Industrial Backfilling Earthing Compound Manufacturer in Hyderabad, Leading Backfilling Earthing Compound Manufacturer in Hyderabad, Reliable Backfilling Earthing Compound Manufacturer in Hyderabad, BFC Earthing Compound Manufacturer, Ground Enhancement Compound Manufacturer, Chemical Earthing Compound Manufacturer";
 

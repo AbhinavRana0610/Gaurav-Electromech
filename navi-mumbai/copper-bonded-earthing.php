@@ -1,5 +1,5 @@
-<?php $page_title = "Copper Bonded Earthing Manufacturer in Navi Mumbai | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in Navi Mumbai, offering high-quality copper bonded earthing electrodes with excellent conductivity and corrosion resistance for industrial, commercial, and residential applications. We specialize in copper bonded earthing rods, earthing electrodes, and reliable grounding solutions.";
+<?php $page_title = "Copper Bonded Earthing Manufacturer in Navi Mumbai";
+$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in Navi Mumbai, offering electrodes with excellent conductivity and corrosion resistance.";
 $keywords = " 
 Copper Bonded Earthing Manufacturer in Navi Mumbai, Best Copper Bonded Earthing Manufacturer in Navi Mumbai, Top Copper Bonded Earthing Manufacturer in Navi Mumbai, Copper Bonded Earthing Electrode Manufacturer in Navi Mumbai, Industrial Copper Bonded Earthing Manufacturer in Navi Mumbai, Leading Copper Bonded Earthing Manufacturer in Navi Mumbai, Reliable Copper Bonded Earthing Manufacturer in Navi Mumbai, Copper Bonded Earthing Rod Manufacturer, Copper Bonded Earthing Electrode Manufacturer, Copper Bonded Ground Rod Manufacturer, Earthing Electrode Manufacturer, Copper Bonded Earthing Manufacturer";
 

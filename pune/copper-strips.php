@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Strips Manufacturer in Pune | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper strip manufacturer in Pune, offering high-quality copper strips with excellent conductivity for electrical and industrial applications. We specialize in bare copper strips, electrolytic copper strips, and reliable electrical copper strip solutions.";
+$description = "Gaurav Electromech is a leading copper strip manufacturer in Pune, offering bare and electrolytic copper strips with excellent conductivity.";
 $keywords = " 
 Copper Strip Manufacturer in Pune, Best Copper Strip Manufacturer in Pune, Top Copper Strip Manufacturer in Pune, Bare Copper Strip Manufacturer in Pune, Electrical Copper Strip Manufacturer in Pune, Industrial Copper Strip Manufacturer in Pune, Leading Copper Strip Manufacturer in Pune, Reliable Copper Strip Manufacturer in Pune, Industrial Copper Strip Manufacturer, Electrical Copper Strip Manufacturer, Electrolytic Copper Strip Manufacturer, Bare Copper Strip Manufacturer, Copper Strip Manufacturer";
 

@@ -1,5 +1,5 @@
-<?php $page_title = "Backfilling Earthing Compound Manufacturer in Kanpur | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading backfill earthing compound manufacturer in Kanpur, offering premium-grade chemical backfill compounds to enhance grounding system performance and conductivity. Trusted for industrial and reliable earthing solutions across Kanpur.";
+<?php $page_title = "Backfilling Earthing Compound Manufacturer in Kanpur";
+$description = "Gaurav Electromech is a leading backfill earthing compound manufacturer in Kanpur, offering premium-grade compounds to enhance grounding performance.";
 $keywords = " 
 Backfill Earthing Compound Manufacturer in Kanpur, Best Backfill Earthing Compound Manufacturer in Kanpur, Top Backfill Earthing Compound Manufacturer in Kanpur, Chemical Backfill Earthing Compound Manufacturer in Kanpur, Ground Enhancement Backfill Compound Manufacturer in Kanpur, Industrial Backfill Earthing Compound Manufacturer in Kanpur, Leading Backfill Earthing Compound Manufacturer in Kanpur, Reliable Backfill Earthing Compound Manufacturer in Kanpur, BFC Earthing Compound Manufacturer, Ground Enhancement Compound Manufacturer, Chemical Earthing Compound Manufacturer";
 

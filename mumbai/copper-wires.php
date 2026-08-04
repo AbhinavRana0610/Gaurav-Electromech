@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Wires Manufacturer in Mumbai | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper wire manufacturer in Mumbai, offering high-quality copper wires with excellent conductivity and flexibility for earthing, electrical, and power distribution applications. We specialize in bare copper wires, electrolytic copper wires, and reliable electrical copper wire solutions.";
+$description = "Gaurav Electromech is a leading copper wire manufacturer in Mumbai, offering bare and electrolytic copper wires for earthing and power distribution.";
 $keywords = " 
 Copper Wires Manufacturer in Mumbai, Best Copper Wires Manufacturer in Mumbai, Top Copper Wires Manufacturer in Mumbai, Bare Copper Wire Manufacturer in Mumbai, Electrical Copper Wire Manufacturer in Mumbai, Industrial Copper Wires Manufacturer in Mumbai, Leading Copper Wires Manufacturer in Mumbai, Reliable Copper Wires Manufacturer in Mumbai, Industrial Copper Wire Manufacturer, Electrical Copper Wire Manufacturer, Electrolytic Copper Wire Manufacturer, Bare Copper Wire Manufacturer, Copper Wires Manufacturer";
 

@@ -1,5 +1,5 @@
-<?php $page_title = "Earthing Systems Manufacturer in Chennai | Gaurav Electromech";
-$description = "Our specialty at Gaurav Electromech is the design, manufacturing, trade, of high-performance earthing systems throughout Chennai. Our products are designed to improve electrical.";
+<?php $page_title = "Earthing Systems Manufacturer in Chennai";
+$description = "Our specialty at Gaurav Electromech is the design, manufacture and trade of high-performance earthing systems throughout Chennai.";
 $keywords = " 
 Earthing Systems Manufacturer in Chennai,Best Earthing Systems Manufacturer in Chennai,Top Earthing Systems Manufacturer in Chennai,Earthing Systems Manufacturer in Chennai,Maintenance Free Earthing Systems Manufacturers in Chennai,Earthing Electrode Manufacturer,Chemical Earthing Manufacturer,Copper Bonded Electrode Manufacturer,GI Earthing Manufacturer,Reliable Earthing Systems Manufacturer in Chennai,Leading Maintenance Free Earthing Systems Manufacturer in Chennai,GI Earthing Manufacturer";
 

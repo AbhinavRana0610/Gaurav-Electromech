@@ -1,5 +1,5 @@
 <?php $page_title = "GI Strips Manufacturer in Jaipur | Gaurav Electromech";
-$description = "Gaurav Electromech provides high-quality galvanized iron (GI) strips, which are essential parts of electrical installations and earthing systems. Being one of top GI strip manufacturers in Jaipur.";
+$description = "Being one of the top GI strip manufacturers in Jaipur, Gaurav Electromech provides high-quality galvanized iron (GI) strips for earthing systems.";
 $keywords = " 
 Leading GI Strip Manufacturer in Jaipur,Best GI Strip Manufacturer in Jaipur,Top GI Strip Manufacturer in Jaipur,Galvanized Iron GI Strip Manufacturer in Jaipur,Electrical GI Strip Manufacturer in Jaipur,Industrial GI Strip Manufacturer in Jaipur,Hot Dip GI Strip Manufacturer in Jaipur,Reliable GI Strip Manufacturer in Jaipur,Hot Dip GI Strip Manufacturer,Industrial GI Strip Manufacturer,Electrical GI Strip Manufacturer,Galvanized Iron Strip Manufacturer,GI Strip Manufacturer";
 

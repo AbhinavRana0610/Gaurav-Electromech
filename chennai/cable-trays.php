@@ -1,5 +1,5 @@
 <?php $page_title = "Cable Trays Manufacturer in Chennai | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading cable tray manufacturer in Chennai, offering durable and efficient cable tray solutions including perforated cable trays, ladder type cable trays, and GI cable trays. Trusted for industrial and electrical cable management systems.";
+$description = "Gaurav Electromech is a leading cable tray manufacturer in Chennai, offering perforated, ladder type and GI cable trays for industrial cable management.";
 $keywords = " 
 Cable Trays Manufacturer in Chennai, Best Cable Trays Manufacturer in Chennai, Top Cable Trays Manufacturer in Chennai, Perforated Cable Trays Manufacturer in Chennai, Ladder Type Cable Trays Manufacturer in Chennai, GI Cable Trays Manufacturer in Chennai, Industrial Cable Trays Manufacturer in Chennai, Leading Cable Trays Manufacturer in Chennai, Reliable Cable Trays Manufacturer in Chennai, Electrical Cable Trays Manufacturer, GI Cable Trays Manufacturer, Ladder Cable Trays Manufacturer, Perforated Cable Trays Manufacturer, Cable Trays Manufacturer";
 

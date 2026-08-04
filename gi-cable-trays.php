@@ -1,5 +1,5 @@
 <?php $page_title = "GI Cable Tray Manufacturer in India.";
-$description = "A well-known brand in the electrical and industrial infrastructure space, Gaurav Electromech is a trusted GI cable tray manufacturer in India, providing sturdy, corrosion-resistant GI cable trays for well-organized cable management.";
+$description = "Gaurav Electromech is a trusted GI cable tray manufacturer in India, providing sturdy, corrosion-resistant GI cable trays for organized cable management.";
 $keywords = " 
 GI Cable Tray Manufacturer in India,Best GI Cable Tray Manufacturer in India,Top GI Cable Tray Manufacturer in India,Perforated GI Cable Tray Manufacturer in India,Ladder Type GI Cable Tray Manufacturer in India,Industrial GI Cable Tray Manufacturer in India,Leading GI Cable Tray Manufacturer in India,Reliable GI Cable Tray Manufacturer in India,Galvanized Cable Tray Manufacturer,Electrical GI Cable Tray Manufacturer,Ladder GI Cable Tray Manufacturer,Perforated GI Cable Tray Manufacturer";
 

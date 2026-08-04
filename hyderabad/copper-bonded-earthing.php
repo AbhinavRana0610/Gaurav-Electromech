@@ -1,5 +1,5 @@
-<?php $page_title = "Copper Bonded Earthing Manufacturer in Hyderabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in Hyderabad, offering high-quality copper bonded earthing electrodes with excellent conductivity and corrosion resistance for industrial, commercial, and residential applications. We specialize in copper bonded earthing rods, earthing electrodes, and reliable grounding solutions.";
+<?php $page_title = "Copper Bonded Earthing Manufacturer in Hyderabad";
+$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in Hyderabad, offering electrodes with excellent conductivity and corrosion resistance.";
 $keywords = " 
 Copper Bonded Earthing Manufacturer in Hyderabad, Best Copper Bonded Earthing Manufacturer in Hyderabad, Top Copper Bonded Earthing Manufacturer in Hyderabad, Copper Bonded Earthing Electrode Manufacturer in Hyderabad, Industrial Copper Bonded Earthing Manufacturer in Hyderabad, Leading Copper Bonded Earthing Manufacturer in Hyderabad, Reliable Copper Bonded Earthing Manufacturer in Hyderabad, Copper Bonded Earthing Rod Manufacturer, Copper Bonded Earthing Electrode Manufacturer, Copper Bonded Ground Rod Manufacturer, Earthing Electrode Manufacturer, Copper Bonded Earthing Manufacturer";
 

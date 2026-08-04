@@ -1,5 +1,5 @@
-<?php $page_title = "Copper Bonded Earthing Manufacturer in Mumbai | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in Mumbai, offering high-quality copper bonded earthing electrodes with excellent conductivity and corrosion resistance for industrial, commercial, and residential applications. We specialize in copper bonded earthing rods, earthing electrodes, and reliable grounding solutions.";
+<?php $page_title = "Copper Bonded Earthing Manufacturer in Mumbai";
+$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in Mumbai, offering electrodes with excellent conductivity and corrosion resistance.";
 $keywords = " 
 Copper Bonded Earthing Manufacturer in Mumbai, Best Copper Bonded Earthing Manufacturer in Mumbai, Top Copper Bonded Earthing Manufacturer in Mumbai, Copper Bonded Earthing Electrode Manufacturer in Mumbai, Industrial Copper Bonded Earthing Manufacturer in Mumbai, Leading Copper Bonded Earthing Manufacturer in Mumbai, Reliable Copper Bonded Earthing Manufacturer in Mumbai, Copper Bonded Earthing Rod Manufacturer, Copper Bonded Earthing Electrode Manufacturer, Copper Bonded Ground Rod Manufacturer, Earthing Electrode Manufacturer, Copper Bonded Earthing Manufacturer";
 

@@ -1,5 +1,5 @@
 <?php $page_title = "Leading GI Strip Manufacturer in India.";
-$description = "Gaurav Electromech provides high-quality galvanized iron (GI) strips, which are essential parts of electrical installations and earthing systems. Being one of top GI strip manufacturers in India.";
+$description = "Being one of the top GI strip manufacturers in India, Gaurav Electromech provides high-quality galvanized iron (GI) strips for earthing systems.";
 $keywords = " 
 Leading GI Strip Manufacturer in India,Best GI Strip Manufacturer in India,Top GI Strip Manufacturer in India,Galvanized Iron GI Strip Manufacturer in India,Electrical GI Strip Manufacturer in India,Industrial GI Strip Manufacturer in India,Hot Dip GI Strip Manufacturer in India,Reliable GI Strip Manufacturer in India,Hot Dip GI Strip Manufacturer,Industrial GI Strip Manufacturer,Electrical GI Strip Manufacturer,Galvanized Iron Strip Manufacturer,GI Strip Manufacturer";
 

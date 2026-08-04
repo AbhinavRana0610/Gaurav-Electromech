@@ -1,5 +1,5 @@
-<?php $page_title = "Backfilling Earthing Compound Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading backfill earthing compound manufacturer in Ahmedabad, offering premium-grade chemical backfill compounds to enhance grounding system performance and conductivity. Trusted for industrial and reliable earthing solutions across Ahmedabad.";
+<?php $page_title = "Backfilling Earthing Compound Manufacturer in Ahmedabad";
+$description = "Gaurav Electromech is a leading backfill earthing compound manufacturer in Ahmedabad, offering premium-grade compounds to enhance grounding performance.";
 $keywords = " 
 Backfill Earthing Compound Manufacturer in Ahmedabad, Best Backfill Earthing Compound Manufacturer in Ahmedabad, Top Backfill Earthing Compound Manufacturer in Ahmedabad, Chemical Backfill Earthing Compound Manufacturer in Ahmedabad, Ground Enhancement Backfill Compound Manufacturer in Ahmedabad, Industrial Backfill Earthing Compound Manufacturer in Ahmedabad, Leading Backfill Earthing Compound Manufacturer in Ahmedabad, Reliable Backfill Earthing Compound Manufacturer in Ahmedabad, BFC Earthing Compound Manufacturer, Ground Enhancement Compound Manufacturer, Chemical Earthing Compound Manufacturer";
 

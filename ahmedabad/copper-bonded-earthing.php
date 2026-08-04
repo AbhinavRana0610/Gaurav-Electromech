@@ -1,5 +1,5 @@
-<?php $page_title = "Copper Bonded Earthing Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in Ahmedabad, offering high-quality copper bonded earthing electrodes with excellent conductivity and corrosion resistance for industrial, commercial, and residential applications. We specialize in copper bonded earthing rods, earthing electrodes, and reliable grounding solutions.";
+<?php $page_title = "Copper Bonded Earthing Manufacturer in Ahmedabad";
+$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in Ahmedabad, offering electrodes with excellent conductivity and corrosion resistance.";
 $keywords = " 
 Copper Bonded Earthing Manufacturer in Ahmedabad, Best Copper Bonded Earthing Manufacturer in Ahmedabad, Top Copper Bonded Earthing Manufacturer in Ahmedabad, Copper Bonded Earthing Electrode Manufacturer in Ahmedabad, Industrial Copper Bonded Earthing Manufacturer in Ahmedabad, Leading Copper Bonded Earthing Manufacturer in Ahmedabad, Reliable Copper Bonded Earthing Manufacturer in Ahmedabad, Copper Bonded Earthing Rod Manufacturer, Copper Bonded Earthing Electrode Manufacturer, Copper Bonded Ground Rod Manufacturer, Earthing Electrode Manufacturer, Copper Bonded Earthing Manufacturer";
 

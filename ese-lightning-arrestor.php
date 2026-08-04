@@ -1,5 +1,5 @@
 <?php $page_title = "ESE lightning arrestor manufacturers in India.";
-$description = "We offer cutting-edge and dependable solutions that guarantee the highest level of protection against direct lightning discharges as one of top ESE lightning arrestor manufacturers in India.";
+$description = "As one of the top ESE lightning arrestor manufacturers in India, we offer dependable protection against direct lightning discharges.";
 $keywords = " 
 ESE Lightning Arrestor Manufacturers in India,Best ESE Lightning Arrestor Manufacturers in India,Top ESE Lightning Arrestor Manufacturers in India,ESE Lightning Protection System Manufacturers,Building Safety ESE Lightning Protection System in India,ESE Lightning Protection System Manufacturers,Surge Protection Device,Lightning Protection System,ESE Lightning Conductor,Top ESE Lightning Arrestor Manufacturers in India,Best ESE Lightning Arrestor Manufacturers in India,ESE Lightning Arrestor Manufacturers";
 

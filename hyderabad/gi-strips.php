@@ -1,5 +1,5 @@
 <?php $page_title = "GI Strips Manufacturer in Hyderabad | Gaurav Electromech";
-$description = "Gaurav Electromech provides high-quality galvanized iron (GI) strips, which are essential parts of electrical installations and earthing systems. Being one of top GI strip manufacturers in Hyderabad.";
+$description = "Being one of the top GI strip manufacturers in Hyderabad, Gaurav Electromech provides high-quality galvanized iron (GI) strips for earthing systems.";
 $keywords = " 
 Leading GI Strips Manufacturer in Hyderabad,Best GI Strips Manufacturer in Hyderabad,Top GI Strips Manufacturer in Hyderabad,Galvanized Iron GI Strips Manufacturer in Hyderabad,Electrical GI Strips Manufacturer in Hyderabad,Industrial GI Strips Manufacturer in Hyderabad,Hot Dip GI Strips Manufacturer in Hyderabad,Reliable GI Strips Manufacturer in Hyderabad,Hot Dip GI Strips Manufacturer,Industrial GI Strips Manufacturer,Electrical GI Strips Manufacturer,Galvanized Iron Strips Manufacturer,GI Strips Manufacturer";
 

@@ -1,5 +1,5 @@
 <?php $page_title = "Earthing Manufacturer in India| Gaurav Electro";
-$description = "Our specialty at Gaurav Electromech is the design, manufacturing, trade, of high-performance earthing systems throughout India. Our products are designed to improve electrical.";
+$description = "Our specialty at Gaurav Electromech is the design, manufacture and trade of high-performance earthing systems throughout India.";
 $keywords = " 
 Earthing Manufacturer in India,Best Earthing Manufacturer in India,Top Earthing Manufacturer in India,Earthing Manufacturer in India,Maintenance Free Earthing System Manufacturers in India,Earthing Electrode Manufacturer,Chemical Earthing Manufacturer,Copper Bonded Electrode Manufacturer,GI Earthing Manufacturer,Reliable Earthing System Manufacturer in India,Leading Maintenance Free Earthing Manufacturer in India,GI Earthing Manufacturer";
 

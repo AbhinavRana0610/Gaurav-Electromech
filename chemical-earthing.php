@@ -1,5 +1,5 @@
 <?php $page_title = "Chemical Earthing Manufacturer in India | Gaurav Electromech";
-$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in India, providing strong and effective chemical earthing systems that ensure low-resistance discharge and long-term safety. We specialize in copper bonded chemical earthing, GI chemical earthing, and maintenance-free earthing solutions.";
+$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in India, providing copper bonded, GI and maintenance-free chemical earthing systems.";
 $keywords = " 
 Chemical Earthing Manufacturer in India, Best Chemical Earthing Manufacturer in India, Top Chemical Earthing Manufacturer in India, Copper Bonded Chemical Earthing Manufacturer in India, GI Chemical Earthing Manufacturer in India, Industrial Chemical Earthing Manufacturer in India, Leading Chemical Earthing Manufacturer in India, Reliable Chemical Earthing Manufacturer in India, Maintenance Free Earthing Manufacturer, GI Earthing Manufacturer, Copper Chemical Earthing Manufacturer, Earthing Electrode Manufacturer, Chemical Earthing Manufacturer";
 

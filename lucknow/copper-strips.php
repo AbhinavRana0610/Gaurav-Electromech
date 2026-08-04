@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Strips Manufacturer in Lucknow | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper strip manufacturer in Lucknow, offering high-quality copper strips with excellent conductivity for electrical and industrial applications. We specialize in bare copper strips, electrolytic copper strips, and reliable electrical copper strip solutions.";
+$description = "Gaurav Electromech is a leading copper strip manufacturer in Lucknow, offering bare and electrolytic copper strips with excellent conductivity.";
 $keywords = " 
 Copper Strip Manufacturer in Lucknow, Best Copper Strip Manufacturer in Lucknow, Top Copper Strip Manufacturer in Lucknow, Bare Copper Strip Manufacturer in Lucknow, Electrical Copper Strip Manufacturer in Lucknow, Industrial Copper Strip Manufacturer in Lucknow, Leading Copper Strip Manufacturer in Lucknow, Reliable Copper Strip Manufacturer in Lucknow, Industrial Copper Strip Manufacturer, Electrical Copper Strip Manufacturer, Electrolytic Copper Strip Manufacturer, Bare Copper Strip Manufacturer, Copper Strip Manufacturer";
 

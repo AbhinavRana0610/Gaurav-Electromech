@@ -1,5 +1,5 @@
 <?php $page_title = "Earthing Systems Manufacturer in Jaipur | Gaurav Electromech";
-$description = "Our specialty at Gaurav Electromech is the design, manufacturing, trade, of high-performance earthing systems throughout Jaipur. Our products are designed to improve electrical.";
+$description = "Our specialty at Gaurav Electromech is the design, manufacture and trade of high-performance earthing systems throughout Jaipur.";
 $keywords = " 
 Earthing Manufacturer in Jaipur,Best Earthing Manufacturer in Jaipur,Top Earthing Manufacturer in Jaipur,Earthing Manufacturer in Jaipur,Maintenance Free Earthing System Manufacturers in Jaipur,Earthing Electrode Manufacturer,Chemical Earthing Manufacturer,Copper Bonded Electrode Manufacturer,GI Earthing Manufacturer,Reliable Earthing System Manufacturer in Jaipur,Leading Maintenance Free Earthing Manufacturer in Jaipur,GI Earthing Manufacturer";
 

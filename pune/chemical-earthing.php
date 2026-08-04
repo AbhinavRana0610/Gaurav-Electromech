@@ -1,5 +1,5 @@
 <?php $page_title = "Chemical Earthing Manufacturer in Pune | Gaurav Electromech";
-$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Pune, providing strong and effective chemical earthing systems that ensure low-resistance discharge and long-term safety. We specialize in copper bonded chemical earthing, GI chemical earthing, and maintenance-free earthing solutions.";
+$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Pune, providing copper bonded, GI and maintenance-free chemical earthing systems.";
 $keywords = " 
 Chemical Earthing Manufacturer in Pune, Best Chemical Earthing Manufacturer in Pune, Top Chemical Earthing Manufacturer in Pune, Copper Bonded Chemical Earthing Manufacturer in Pune, GI Chemical Earthing Manufacturer in Pune, Industrial Chemical Earthing Manufacturer in Pune, Leading Chemical Earthing Manufacturer in Pune, Reliable Chemical Earthing Manufacturer in Pune, Maintenance Free Earthing Manufacturer, GI Earthing Manufacturer, Copper Chemical Earthing Manufacturer, Earthing Electrode Manufacturer, Chemical Earthing Manufacturer";
 

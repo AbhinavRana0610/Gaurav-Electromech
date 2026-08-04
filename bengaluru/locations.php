@@ -1,5 +1,5 @@
 <?php $page_title = "Our Locations | Gaurav Electromech";
-$description = "Gaurav Electromech supplies earthing systems, lightning arrestors and cable trays across India and overseas. Find our earthing and lightning protection solutions in Bengaluru, Mumbai, Navi Mumbai, Hyderabad, Chennai, Ahmedabad, Pune, Jaipur, Lucknow and Kanpur.";
+$description = "Gaurav Electromech supplies earthing systems, lightning arrestors and cable trays across India, including Bengaluru, Mumbai, Hyderabad, Chennai and Pune.";
 $canonical = "https://www.earthingmanufacturers.com/locations.php";
 
 include('header.php') ?>

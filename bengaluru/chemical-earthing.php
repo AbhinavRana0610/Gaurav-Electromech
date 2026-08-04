@@ -1,5 +1,5 @@
-<?php $page_title = "Chemical Earthing Manufacturer in Bengaluru | Gaurav Electromech";
-$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Bengaluru, providing strong and effective chemical earthing systems that ensure low-resistance discharge and long-term safety. We specialize in copper bonded chemical earthing, GI chemical earthing, and maintenance-free earthing solutions.";
+<?php $page_title = "Chemical Earthing Manufacturer in Bengaluru";
+$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Bengaluru, providing copper bonded, GI and maintenance-free chemical earthing systems.";
 $keywords = " 
 Chemical Earthing Manufacturer in Bengaluru, Best Chemical Earthing Manufacturer in Bengaluru, Top Chemical Earthing Manufacturer in Bengaluru, Copper Bonded Chemical Earthing Manufacturer in Bengaluru, GI Chemical Earthing Manufacturer in Bengaluru, Industrial Chemical Earthing Manufacturer in Bengaluru, Leading Chemical Earthing Manufacturer in Bengaluru, Reliable Chemical Earthing Manufacturer in Bengaluru, Maintenance Free Earthing Manufacturer, GI Earthing Manufacturer, Copper Chemical Earthing Manufacturer, Earthing Electrode Manufacturer, Chemical Earthing Manufacturer";
 

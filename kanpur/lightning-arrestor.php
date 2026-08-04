@@ -1,5 +1,5 @@
-<?php $page_title = "Lightning Arrestor Manufacturer in Kanpur | Gaurav Electromech";
-$description = "A reputable brand in electrical protection systems, Gaurav Electromech is a trusted lightning arrestor manufacturer in Kanpur, providing incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
+<?php $page_title = "Lightning Arrestor Manufacturer in Kanpur";
+$description = "Gaurav Electromech is a trusted lightning arrestor manufacturer in Kanpur, providing dependable lightning arrestors to protect structures and people.";
 $keywords = " 
 Lightning Arrestor Manufacturers in Kanpur,Best Lightning Arrestor Manufacturers in Kanpur,Top Lightning Arrestor Manufacturers in Kanpur,ESE Lightning Arrestor Manufacturers in Kanpur,Industrial Lightning Arrestor Suppliers in Kanpur,Building Lightning Protection System in Kanpur,Surge Protection and Lightning Arrestor Supplier in Kanpur,Reliable Lightning Protection Solutions Provider in Kanpur,Building Lightning Protection System in Kanpur,Surge Protection Device,Earthing Equipment,ESE Lightning Arrestor,Lightning Protection System,Lightning Arrestor,Surge protection and lightning arrestor manufacturers in Kanpur,Residential lightning arrestor manufacturers in Kanpur";
 

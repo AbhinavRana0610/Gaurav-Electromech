@@ -1,5 +1,5 @@
-<?php $page_title = "Lightning Arrestor Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "A reputable brand in electrical protection systems, Gaurav Electromech is a trusted lightning arrestor manufacturer in Ahmedabad, providing incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
+<?php $page_title = "Lightning Arrestor Manufacturer in Ahmedabad";
+$description = "Gaurav Electromech is a trusted lightning arrestor manufacturer in Ahmedabad, providing dependable lightning arrestors to protect structures and people.";
 $keywords = " 
 Lightning Arrestor Manufacturers in Ahmedabad,Best Lightning Arrestor Manufacturers in Ahmedabad,Top Lightning Arrestor Manufacturers in Ahmedabad,ESE Lightning Arrestor Manufacturers in Ahmedabad,Industrial Lightning Arrestor Suppliers in Ahmedabad,Building Lightning Protection System in Ahmedabad,Surge Protection and Lightning Arrestor Supplier in Ahmedabad,Reliable Lightning Protection Solutions Provider in Ahmedabad,Building Lightning Protection System in Ahmedabad,Surge Protection Device,Earthing Equipment,ESE Lightning Arrestor,Lightning Protection System,Lightning Arrestor,Surge protection and lightning arrestor manufacturers in Ahmedabad,Residential lightning arrestor manufacturers in Ahmedabad";
 

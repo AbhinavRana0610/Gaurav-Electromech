@@ -1,5 +1,5 @@
-<?php $page_title = "Chemical Earthing Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Ahmedabad, providing strong and effective chemical earthing systems that ensure low-resistance discharge and long-term safety. We specialize in copper bonded chemical earthing, GI chemical earthing, and maintenance-free earthing solutions.";
+<?php $page_title = "Chemical Earthing Manufacturer in Ahmedabad";
+$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Ahmedabad, providing copper bonded, GI and maintenance-free chemical earthing systems.";
 $keywords = " 
 Chemical Earthing Manufacturer in Ahmedabad, Best Chemical Earthing Manufacturer in Ahmedabad, Top Chemical Earthing Manufacturer in Ahmedabad, Copper Bonded Chemical Earthing Manufacturer in Ahmedabad, GI Chemical Earthing Manufacturer in Ahmedabad, Industrial Chemical Earthing Manufacturer in Ahmedabad, Leading Chemical Earthing Manufacturer in Ahmedabad, Reliable Chemical Earthing Manufacturer in Ahmedabad, Maintenance Free Earthing Manufacturer, GI Earthing Manufacturer, Copper Chemical Earthing Manufacturer, Earthing Electrode Manufacturer, Chemical Earthing Manufacturer";
 

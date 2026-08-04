@@ -1,5 +1,5 @@
 <?php $page_title = "Cable Trays Manufacturer in Jaipur | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading cable tray manufacturer in Jaipur, offering durable and efficient cable tray solutions including perforated cable trays, ladder type cable trays, and GI cable trays. Trusted for industrial and electrical cable management systems.";
+$description = "Gaurav Electromech is a leading cable tray manufacturer in Jaipur, offering perforated, ladder type and GI cable trays for industrial cable management.";
 $keywords = " 
 Cable Tray Manufacturer in Jaipur, Best Cable Tray Manufacturer in Jaipur, Top Cable Tray Manufacturer in Jaipur, Perforated Cable Tray Manufacturer in Jaipur, Ladder Type Cable Tray Manufacturer in Jaipur, GI Cable Tray Manufacturer in Jaipur, Industrial Cable Tray Manufacturer in Jaipur, Leading Cable Tray Manufacturer in Jaipur, Reliable Cable Tray Manufacturer in Jaipur, Electrical Cable Tray Manufacturer, GI Cable Tray Manufacturer, Ladder Cable Tray Manufacturer, Perforated Cable Tray Manufacturer, Cable Tray Manufacturer";
 

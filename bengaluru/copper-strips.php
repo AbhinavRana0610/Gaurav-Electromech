@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Strips Manufacturer in Bengaluru | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper strip manufacturer in Bengaluru, offering high-quality copper strips with excellent conductivity for electrical and industrial applications. We specialize in bare copper strips, electrolytic copper strips, and reliable electrical copper strip solutions.";
+$description = "Gaurav Electromech is a leading copper strip manufacturer in Bengaluru, offering bare and electrolytic copper strips with excellent conductivity.";
 $keywords = " 
 Copper Strips Manufacturer in Bengaluru, Best Copper Strips Manufacturer in Bengaluru, Top Copper Strips Manufacturer in Bengaluru, Bare Copper Strips Manufacturer in Bengaluru, Electrical Copper Strips Manufacturer in Bengaluru, Industrial Copper Strips Manufacturer in Bengaluru, Leading Copper Strips Manufacturer in Bengaluru, Reliable Copper Strips Manufacturer in Bengaluru, Industrial Copper Strips Manufacturer, Electrical Copper Strips Manufacturer, Electrolytic Copper Strips Manufacturer, Bare Copper Strips Manufacturer, Copper Strips Manufacturer";
 

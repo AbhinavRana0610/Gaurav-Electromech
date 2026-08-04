@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Wires Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper wire manufacturer in Ahmedabad, offering high-quality copper wires with excellent conductivity and flexibility for earthing, electrical, and power distribution applications. We specialize in bare copper wires, electrolytic copper wires, and reliable electrical copper wire solutions.";
+$description = "Gaurav Electromech is a leading copper wire manufacturer in Ahmedabad, offering bare and electrolytic copper wires for earthing and power distribution.";
 $keywords = " 
 Copper Wire Manufacturer in Ahmedabad, Best Copper Wire Manufacturer in Ahmedabad, Top Copper Wire Manufacturer in Ahmedabad, Bare Copper Wire Manufacturer in Ahmedabad, Electrical Copper Wire Manufacturer in Ahmedabad, Industrial Copper Wire Manufacturer in Ahmedabad, Leading Copper Wire Manufacturer in Ahmedabad, Reliable Copper Wire Manufacturer in Ahmedabad, Industrial Copper Wire Manufacturer, Electrical Copper Wire Manufacturer, Electrolytic Copper Wire Manufacturer, Bare Copper Wire Manufacturer, Copper Wire Manufacturer";
 

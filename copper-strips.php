@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Strip Manufacturer in India | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper strip manufacturer in India, offering high-quality copper strips with excellent conductivity for electrical and industrial applications. We specialize in bare copper strips, electrolytic copper strips, and reliable electrical copper strip solutions.";
+$description = "Gaurav Electromech is a leading copper strip manufacturer in India, offering bare and electrolytic copper strips with excellent conductivity.";
 $keywords = " 
 Copper Strip Manufacturer in India, Best Copper Strip Manufacturer in India, Top Copper Strip Manufacturer in India, Bare Copper Strip Manufacturer in India, Electrical Copper Strip Manufacturer in India, Industrial Copper Strip Manufacturer in India, Leading Copper Strip Manufacturer in India, Reliable Copper Strip Manufacturer in India, Industrial Copper Strip Manufacturer, Electrical Copper Strip Manufacturer, Electrolytic Copper Strip Manufacturer, Bare Copper Strip Manufacturer, Copper Strip Manufacturer";
 

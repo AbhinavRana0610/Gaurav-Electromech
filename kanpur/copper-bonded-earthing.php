@@ -1,5 +1,5 @@
-<?php $page_title = "Copper Bonded Earthing Manufacturer in Kanpur | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in Kanpur, offering high-quality copper bonded earthing electrodes with excellent conductivity and corrosion resistance for industrial, commercial, and residential applications. We specialize in copper bonded earthing rods, earthing electrodes, and reliable grounding solutions.";
+<?php $page_title = "Copper Bonded Earthing Manufacturer in Kanpur";
+$description = "Gaurav Electromech is a leading copper bonded earthing manufacturer in Kanpur, offering electrodes with excellent conductivity and corrosion resistance.";
 $keywords = " 
 Copper Bonded Earthing Manufacturer in Kanpur, Best Copper Bonded Earthing Manufacturer in Kanpur, Top Copper Bonded Earthing Manufacturer in Kanpur, Copper Bonded Earthing Electrode Manufacturer in Kanpur, Industrial Copper Bonded Earthing Manufacturer in Kanpur, Leading Copper Bonded Earthing Manufacturer in Kanpur, Reliable Copper Bonded Earthing Manufacturer in Kanpur, Copper Bonded Earthing Rod Manufacturer, Copper Bonded Earthing Electrode Manufacturer, Copper Bonded Ground Rod Manufacturer, Earthing Electrode Manufacturer, Copper Bonded Earthing Manufacturer";
 

@@ -1,5 +1,5 @@
-<?php $page_title = "Backfilling Earthing Compound Manufacturer in Bengaluru | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading backfill earthing compound manufacturer in Bengaluru, offering premium-grade chemical backfill compounds to enhance grounding system performance and conductivity. Trusted for industrial and reliable earthing solutions across Bengaluru.";
+<?php $page_title = "Backfilling Earthing Compound Manufacturer in Bengaluru";
+$description = "Gaurav Electromech is a leading backfill earthing compound manufacturer in Bengaluru, offering premium-grade compounds to enhance grounding performance.";
 $keywords = " 
 Backfilling Earthing Compound Manufacturer in Bengaluru, Best Backfilling Earthing Compound Manufacturer in Bengaluru, Top Backfilling Earthing Compound Manufacturer in Bengaluru, Chemical Backfilling Earthing Compound Manufacturer in Bengaluru, Ground Enhancement Backfilling Compound Manufacturer in Bengaluru, Industrial Backfilling Earthing Compound Manufacturer in Bengaluru, Leading Backfilling Earthing Compound Manufacturer in Bengaluru, Reliable Backfilling Earthing Compound Manufacturer in Bengaluru, BFC Earthing Compound Manufacturer, Ground Enhancement Compound Manufacturer, Chemical Earthing Compound Manufacturer";
 

@@ -1,5 +1,5 @@
-<?php $page_title = "ESE Lightning Arrestor Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "We offer cutting-edge and dependable solutions that guarantee the highest level of protection against direct lightning discharges as one of top ESE lightning arrestor manufacturers in Ahmedabad.";
+<?php $page_title = "ESE Lightning Arrestor Manufacturer in Ahmedabad";
+$description = "As one of the top ESE lightning arrestor manufacturers in Ahmedabad, we offer dependable protection against direct lightning discharges.";
 $keywords = " 
 ESE Lightning Arrestor Manufacturers in Ahmedabad,Best ESE Lightning Arrestor Manufacturers in Ahmedabad,Top ESE Lightning Arrestor Manufacturers in Ahmedabad,ESE Lightning Protection System Manufacturers,Building Safety ESE Lightning Protection System in Ahmedabad,ESE Lightning Protection System Manufacturers,Surge Protection Device,Lightning Protection System,ESE Lightning Conductor,Top ESE Lightning Arrestor Manufacturers in Ahmedabad,Best ESE Lightning Arrestor Manufacturers in Ahmedabad,ESE Lightning Arrestor Manufacturers";
 

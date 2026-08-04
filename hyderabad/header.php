@@ -7,7 +7,7 @@
     <?php include dirname(__DIR__) . '/seo-meta.php'; ?>
     <link rel="stylesheet" href="../styles.css">
 
-<meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in Hyderabad, offering ESE lightning arrestors, building lightning protection systems, surge protection devices, and earthing equipment. Trusted for industrial and residential lightning safety solutions.'); ?>">
+<meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in Hyderabad, offering ESE lightning arrestors, surge protection and earthing equipment.'); ?>">
 
 <meta name="keywords" content="<?php echo htmlspecialchars(isset($keywords) ? $keywords : 'Lightning Arrestor Manufacturers in Hyderabad, Best Lightning Arrestor Manufacturers in Hyderabad, Top Lightning Arrestor Manufacturers in Hyderabad, ESE Lightning Arrestor Manufacturers in Hyderabad, Industrial Lightning Arrestor Suppliers in Hyderabad, Building Lightning Protection System in Hyderabad, Surge Protection and Lightning Arrestor Supplier in Hyderabad, Reliable Lightning Protection Solutions Provider in Hyderabad, Surge Protection Device, Earthing Equipment, ESE Lightning Arrestor, Lightning Protection System, Surge protection and lightning arrestor manufacturers in Hyderabad, Residential lightning arrestor manufacturers in Hyderabad'); ?>">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">

@@ -1,5 +1,5 @@
-<?php $page_title = "Copper Strips Manufacturer in Navi Mumbai | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper strip manufacturer in Navi Mumbai, offering high-quality copper strips with excellent conductivity for electrical and industrial applications. We specialize in bare copper strips, electrolytic copper strips, and reliable electrical copper strip solutions.";
+<?php $page_title = "Copper Strips Manufacturer in Navi Mumbai";
+$description = "Gaurav Electromech is a leading copper strip manufacturer in Navi Mumbai, offering bare and electrolytic copper strips with excellent conductivity.";
 $keywords = " 
 Copper Strips Manufacturer in Navi Mumbai, Best Copper Strips Manufacturer in Navi Mumbai, Top Copper Strips Manufacturer in Navi Mumbai, Bare Copper Strips Manufacturer in Navi Mumbai, Electrical Copper Strips Manufacturer in Navi Mumbai, Industrial Copper Strips Manufacturer in Navi Mumbai, Leading Copper Strips Manufacturer in Navi Mumbai, Reliable Copper Strips Manufacturer in Navi Mumbai, Industrial Copper Strips Manufacturer, Electrical Copper Strips Manufacturer, Electrolytic Copper Strips Manufacturer, Bare Copper Strips Manufacturer, Copper Strips Manufacturer";
 

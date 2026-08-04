@@ -1,5 +1,5 @@
-<?php $page_title = "Earthing Pit Covers Manufacturer in Hyderabad | Gaurav Electromech";
-$description = "A reputable brand in electrical safety solutions, Gaurav Electromech offers strong, effective earthing pit covers that shield and make earthing systems accessible. Being a reputable earthing pit cover Manufacturer in Hyderabad.";
+<?php $page_title = "Earthing Pit Covers Manufacturer in Hyderabad";
+$description = "Being a reputable earthing pit cover manufacturer in Hyderabad, Gaurav Electromech offers strong covers that protect and give access to earthing systems.";
 $keywords = " 
 Earthing Pit Covers Manufacturer in Hyderabad,Best Earthing Pit Covers Manufacturer in Hyderabad,Top Earthing Pit Covers Manufacturer in Hyderabad,FRP Earthing Pit Covers Manufacturer in Hyderabad,Plastic Earthing Pit Covers Manufacturer in Hyderabad,Concrete Earthing Pit Covers Manufacturer in Hyderabad,Industrial Earthing Pit Covers Manufacturer in Hyderabad,Reliable Earthing Pit Covers Manufacturer in Hyderabad,Leading Earthing Pit Covers Manufacturer in Hyderabad,Heavy Duty Earthing Pit Covers Manufacturer,Concrete Earthing Pit Covers Manufacturer,FRP Earthing Pit Covers Manufacturer,Earthing Pit Covers Manufacturer";
 

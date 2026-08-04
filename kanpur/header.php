@@ -7,7 +7,7 @@
     <?php include dirname(__DIR__) . '/seo-meta.php'; ?>
     <link rel="stylesheet" href="../styles.css">
 
-<meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in Kanpur, offering ESE lightning arrestors, building lightning protection systems, surge protection devices, and earthing equipment. Trusted for industrial and residential lightning safety solutions.'); ?>">
+<meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in Kanpur, offering ESE lightning arrestors, surge protection and earthing equipment.'); ?>">
 
 <meta name="keywords" content="<?php echo htmlspecialchars(isset($keywords) ? $keywords : 'Lightning Arrestor Manufacturers in Kanpur, Best Lightning Arrestor Manufacturers in Kanpur, Top Lightning Arrestor Manufacturers in Kanpur, ESE Lightning Arrestor Manufacturers in Kanpur, Industrial Lightning Arrestor Suppliers in Kanpur, Building Lightning Protection System in Kanpur, Surge Protection and Lightning Arrestor Supplier in Kanpur, Reliable Lightning Protection Solutions Provider in Kanpur, Surge Protection Device, Earthing Equipment, ESE Lightning Arrestor, Lightning Protection System, Surge protection and lightning arrestor manufacturers in Kanpur, Residential lightning arrestor manufacturers in Kanpur'); ?>">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">

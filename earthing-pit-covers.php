@@ -1,5 +1,5 @@
 <?php $page_title = "Earthing Pit Cover Manufacturer in India| Gaurav Electromech";
-$description = "A reputable brand in electrical safety solutions, Gaurav Electromech offers strong, effective earthing pit covers that shield and make earthing systems accessible. Being a reputable earthing pit cover manufacturer in India.";
+$description = "Being a reputable earthing pit cover manufacturer in India, Gaurav Electromech offers strong covers that protect and give access to earthing systems.";
 $keywords = " 
 Earthing Pit Cover Manufacturer in India,Best Earthing Pit Cover Manufacturer in India,Top Earthing Pit Cover Manufacturer in India,FRP Earthing Pit Cover Manufacturer in India,Plastic Earthing Pit Cover Manufacturer in India,Concrete Earthing Pit Cover Manufacturer in India,Industrial Earthing Pit Cover Manufacturer in India,Reliable Earthing Pit Cover Manufacturer in India,Leading Earthing Pit Cover Manufacturer in India,Heavy Duty Earthing Pit Cover Manufacturer,Concrete Earthing Pit Cover Manufacturer,FRP Earthing Pit Cover Manufacturer,Earthing Pit Cover Manufacturer";
 

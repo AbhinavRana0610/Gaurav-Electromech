@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Wires Manufacturer in Chennai | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper wire manufacturer in Chennai, offering high-quality copper wires with excellent conductivity and flexibility for earthing, electrical, and power distribution applications. We specialize in bare copper wires, electrolytic copper wires, and reliable electrical copper wire solutions.";
+$description = "Gaurav Electromech is a leading copper wire manufacturer in Chennai, offering bare and electrolytic copper wires for earthing and power distribution.";
 $keywords = " 
 Copper Wires Manufacturer in Chennai, Best Copper Wires Manufacturer in Chennai, Top Copper Wires Manufacturer in Chennai, Bare Copper Wire Manufacturer in Chennai, Electrical Copper Wire Manufacturer in Chennai, Industrial Copper Wires Manufacturer in Chennai, Leading Copper Wires Manufacturer in Chennai, Reliable Copper Wires Manufacturer in Chennai, Industrial Copper Wire Manufacturer, Electrical Copper Wire Manufacturer, Electrolytic Copper Wire Manufacturer, Bare Copper Wire Manufacturer, Copper Wires Manufacturer";
 

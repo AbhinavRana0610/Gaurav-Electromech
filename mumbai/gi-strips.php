@@ -1,5 +1,5 @@
 <?php $page_title = "GI Strips Manufacturer in Mumbai | Gaurav Electromech";
-$description = "Gaurav Electromech provides high-quality galvanized iron (GI) strips, which are essential parts of electrical installations and earthing systems. Being one of top GI strip manufacturers in Mumbai.";
+$description = "Being one of the top GI strip manufacturers in Mumbai, Gaurav Electromech provides high-quality galvanized iron (GI) strips for earthing systems.";
 $keywords = " 
 Leading GI Strips Manufacturer in Mumbai,Best GI Strips Manufacturer in Mumbai,Top GI Strips Manufacturer in Mumbai,Galvanized Iron GI Strips Manufacturer in Mumbai,Electrical GI Strips Manufacturer in Mumbai,Industrial GI Strips Manufacturer in Mumbai,Hot Dip GI Strips Manufacturer in Mumbai,Reliable GI Strips Manufacturer in Mumbai,Hot Dip GI Strips Manufacturer,Industrial GI Strips Manufacturer,Electrical GI Strips Manufacturer,Galvanized Iron Strips Manufacturer,GI Strips Manufacturer";
 

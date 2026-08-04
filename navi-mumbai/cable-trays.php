@@ -1,5 +1,5 @@
 <?php $page_title = "Cable Trays Manufacturer in Navi Mumbai | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading cable tray manufacturer in Navi Mumbai, offering durable and efficient cable tray solutions including perforated cable trays, ladder type cable trays, and GI cable trays. Trusted for industrial and electrical cable management systems.";
+$description = "Gaurav Electromech is a leading cable tray manufacturer in Navi Mumbai, offering perforated, ladder type and GI cable trays for industrial cable management.";
 $keywords = " 
 Cable Trays Manufacturer in Navi Mumbai, Best Cable Trays Manufacturer in Navi Mumbai, Top Cable Trays Manufacturer in Navi Mumbai, Perforated Cable Trays Manufacturer in Navi Mumbai, Ladder Type Cable Trays Manufacturer in Navi Mumbai, GI Cable Trays Manufacturer in Navi Mumbai, Industrial Cable Trays Manufacturer in Navi Mumbai, Leading Cable Trays Manufacturer in Navi Mumbai, Reliable Cable Trays Manufacturer in Navi Mumbai, Electrical Cable Trays Manufacturer, GI Cable Trays Manufacturer, Ladder Cable Trays Manufacturer, Perforated Cable Trays Manufacturer, Cable Trays Manufacturer";
 

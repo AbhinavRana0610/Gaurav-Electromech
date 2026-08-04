@@ -1,5 +1,5 @@
-<?php $page_title = "Earthing Systems Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "Our specialty at Gaurav Electromech is the design, manufacturing, trade, of high-performance earthing systems throughout Ahmedabad. Our products are designed to improve electrical.";
+<?php $page_title = "Earthing Systems Manufacturer in Ahmedabad";
+$description = "Our specialty at Gaurav Electromech is the design, manufacture and trade of high-performance earthing systems throughout Ahmedabad.";
 $keywords = " 
 Earthing Manufacturer in Ahmedabad,Best Earthing Manufacturer in Ahmedabad,Top Earthing Manufacturer in Ahmedabad,Earthing Manufacturer in Ahmedabad,Maintenance Free Earthing System Manufacturers in Ahmedabad,Earthing Electrode Manufacturer,Chemical Earthing Manufacturer,Copper Bonded Electrode Manufacturer,GI Earthing Manufacturer,Reliable Earthing System Manufacturer in Ahmedabad,Leading Maintenance Free Earthing Manufacturer in Ahmedabad,GI Earthing Manufacturer";
 

@@ -1,5 +1,5 @@
-<?php $page_title = "Chemical Earthing Manufacturer in Hyderabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a trusted chemical earthing Manufacturer in Hyderabad, providing strong and effective chemical earthing systems that ensure low-resistance discharge and long-term safety. We specialize in copper bonded chemical earthing, GI chemical earthing, and maintenance-free earthing solutions.";
+<?php $page_title = "Chemical Earthing Manufacturer in Hyderabad";
+$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Hyderabad, providing copper bonded, GI and maintenance-free chemical earthing systems.";
 $keywords = " 
 Chemical Earthing Manufacturer in Hyderabad, Best Chemical Earthing Manufacturer in Hyderabad, Top Chemical Earthing Manufacturer in Hyderabad, Copper Bonded Chemical Earthing Manufacturer in Hyderabad, GI Chemical Earthing Manufacturer in Hyderabad, Industrial Chemical Earthing Manufacturer in Hyderabad, Leading Chemical Earthing Manufacturer in Hyderabad, Reliable Chemical Earthing Manufacturer in Hyderabad, Maintenance Free Earthing Manufacturer, GI Earthing Manufacturer, Copper Chemical Earthing Manufacturer, Earthing Electrode Manufacturer, Chemical Earthing Manufacturer";
 

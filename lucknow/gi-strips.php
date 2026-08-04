@@ -1,5 +1,5 @@
 <?php $page_title = "GI Strips Manufacturer in Lucknow | Gaurav Electromech";
-$description = "Gaurav Electromech provides high-quality galvanized iron (GI) strips, which are essential parts of electrical installations and earthing systems. Being one of top GI strip manufacturers in Lucknow.";
+$description = "Being one of the top GI strip manufacturers in Lucknow, Gaurav Electromech provides high-quality galvanized iron (GI) strips for earthing systems.";
 $keywords = " 
 Leading GI Strip Manufacturer in Lucknow,Best GI Strip Manufacturer in Lucknow,Top GI Strip Manufacturer in Lucknow,Galvanized Iron GI Strip Manufacturer in Lucknow,Electrical GI Strip Manufacturer in Lucknow,Industrial GI Strip Manufacturer in Lucknow,Hot Dip GI Strip Manufacturer in Lucknow,Reliable GI Strip Manufacturer in Lucknow,Hot Dip GI Strip Manufacturer,Industrial GI Strip Manufacturer,Electrical GI Strip Manufacturer,Galvanized Iron Strip Manufacturer,GI Strip Manufacturer";
 

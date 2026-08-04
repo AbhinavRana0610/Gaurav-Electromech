@@ -1,5 +1,5 @@
 <?php $page_title = "Cable Trays Manufacturer in Pune | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading cable tray manufacturer in Pune, offering durable and efficient cable tray solutions including perforated cable trays, ladder type cable trays, and GI cable trays. Trusted for industrial and electrical cable management systems.";
+$description = "Gaurav Electromech is a leading cable tray manufacturer in Pune, offering perforated, ladder type and GI cable trays for industrial cable management.";
 $keywords = " 
 Cable Tray Manufacturer in Pune, Best Cable Tray Manufacturer in Pune, Top Cable Tray Manufacturer in Pune, Perforated Cable Tray Manufacturer in Pune, Ladder Type Cable Tray Manufacturer in Pune, GI Cable Tray Manufacturer in Pune, Industrial Cable Tray Manufacturer in Pune, Leading Cable Tray Manufacturer in Pune, Reliable Cable Tray Manufacturer in Pune, Electrical Cable Tray Manufacturer, GI Cable Tray Manufacturer, Ladder Cable Tray Manufacturer, Perforated Cable Tray Manufacturer, Cable Tray Manufacturer";
 

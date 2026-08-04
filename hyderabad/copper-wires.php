@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Wires Manufacturer in Hyderabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper wire manufacturer in Hyderabad, offering high-quality copper wires with excellent conductivity and flexibility for earthing, electrical, and power distribution applications. We specialize in bare copper wires, electrolytic copper wires, and reliable electrical copper wire solutions.";
+$description = "Gaurav Electromech is a leading copper wire manufacturer in Hyderabad, offering bare and electrolytic copper wires for earthing and power distribution.";
 $keywords = " 
 Copper Wires Manufacturer in Hyderabad, Best Copper Wires Manufacturer in Hyderabad, Top Copper Wires Manufacturer in Hyderabad, Bare Copper Wire Manufacturer in Hyderabad, Electrical Copper Wire Manufacturer in Hyderabad, Industrial Copper Wires Manufacturer in Hyderabad, Leading Copper Wires Manufacturer in Hyderabad, Reliable Copper Wires Manufacturer in Hyderabad, Industrial Copper Wire Manufacturer, Electrical Copper Wire Manufacturer, Electrolytic Copper Wire Manufacturer, Bare Copper Wire Manufacturer, Copper Wires Manufacturer";
 

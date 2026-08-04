@@ -1,5 +1,5 @@
 <?php $page_title = "Cable Trays Manufacturer in Bengaluru | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading cable tray manufacturer in Bengaluru, offering durable and efficient cable tray solutions including perforated cable trays, ladder type cable trays, and GI cable trays. Trusted for industrial and electrical cable management systems.";
+$description = "Gaurav Electromech is a leading cable tray manufacturer in Bengaluru, offering perforated, ladder type and GI cable trays for industrial cable management.";
 $keywords = " 
 Cable Trays Manufacturer in Bengaluru, Best Cable Trays Manufacturer in Bengaluru, Top Cable Trays Manufacturer in Bengaluru, Perforated Cable Trays Manufacturer in Bengaluru, Ladder Type Cable Trays Manufacturer in Bengaluru, GI Cable Trays Manufacturer in Bengaluru, Industrial Cable Trays Manufacturer in Bengaluru, Leading Cable Trays Manufacturer in Bengaluru, Reliable Cable Trays Manufacturer in Bengaluru, Electrical Cable Trays Manufacturer, GI Cable Trays Manufacturer, Ladder Cable Trays Manufacturer, Perforated Cable Trays Manufacturer, Cable Trays Manufacturer";
 

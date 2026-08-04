@@ -1,5 +1,5 @@
 <?php $page_title = "GI Cable Trays Manufacturer in Mumbai | Gaurav Electromech";
-$description = "A well-known brand in the electrical and industrial infrastructure space, Gaurav Electromech is a trusted GI cable tray manufacturer in Mumbai, providing sturdy, corrosion-resistant GI cable trays for well-organized cable management.";
+$description = "Gaurav Electromech is a trusted GI cable tray manufacturer in Mumbai, providing sturdy, corrosion-resistant GI cable trays for organized cable management.";
 $keywords = " 
 GI Cable Trays Manufacturer in Mumbai,Best GI Cable Trays Manufacturer in Mumbai,Top GI Cable Trays Manufacturer in Mumbai,Perforated GI Cable Trays Manufacturer in Mumbai,Ladder Type GI Cable Trays Manufacturer in Mumbai,Industrial GI Cable Trays Manufacturer in Mumbai,Leading GI Cable Trays Manufacturer in Mumbai,Reliable GI Cable Trays Manufacturer in Mumbai,Galvanized Cable Trays Manufacturer,Electrical GI Cable Trays Manufacturer,Ladder GI Cable Trays Manufacturer,Perforated GI Cable Trays Manufacturer";
 

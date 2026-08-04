@@ -1,5 +1,5 @@
-<?php $page_title = "Backfill Earthing Compound Manufacturer in India | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading backfill earthing compound manufacturer in India, offering premium-grade chemical backfill compounds to enhance grounding system performance and conductivity. Trusted for industrial and reliable earthing solutions across India.";
+<?php $page_title = "Backfill Earthing Compound Manufacturer in India";
+$description = "Gaurav Electromech is a leading backfill earthing compound manufacturer in India, offering premium-grade compounds to enhance grounding performance.";
 $keywords = " 
 Backfill Earthing Compound Manufacturer in India, Best Backfill Earthing Compound Manufacturer in India, Top Backfill Earthing Compound Manufacturer in India, Chemical Backfill Earthing Compound Manufacturer in India, Ground Enhancement Backfill Compound Manufacturer in India, Industrial Backfill Earthing Compound Manufacturer in India, Leading Backfill Earthing Compound Manufacturer in India, Reliable Backfill Earthing Compound Manufacturer in India, BFC Earthing Compound Manufacturer, Ground Enhancement Compound Manufacturer, Chemical Earthing Compound Manufacturer";
 

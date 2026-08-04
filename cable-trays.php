@@ -1,5 +1,5 @@
 <?php $page_title = "Cable Tray Manufacturer in India | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading cable tray manufacturer in India, offering durable and efficient cable tray solutions including perforated cable trays, ladder type cable trays, and GI cable trays. Trusted for industrial and electrical cable management systems.";
+$description = "Gaurav Electromech is a leading cable tray manufacturer in India, offering perforated, ladder type and GI cable trays for industrial cable management.";
 $keywords = " 
 Cable Tray Manufacturer in India, Best Cable Tray Manufacturer in India, Top Cable Tray Manufacturer in India, Perforated Cable Tray Manufacturer in India, Ladder Type Cable Tray Manufacturer in India, GI Cable Tray Manufacturer in India, Industrial Cable Tray Manufacturer in India, Leading Cable Tray Manufacturer in India, Reliable Cable Tray Manufacturer in India, Electrical Cable Tray Manufacturer, GI Cable Tray Manufacturer, Ladder Cable Tray Manufacturer, Perforated Cable Tray Manufacturer, Cable Tray Manufacturer";
 

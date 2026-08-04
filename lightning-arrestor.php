@@ -1,5 +1,5 @@
 <?php $page_title = "lightning arrestor manufacturers in India.";
-$description = "A reputable brand in electrical protection systems, Gaurav Electromech is a trusted lightning arrestor manufacturer in India, providing incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
+$description = "Gaurav Electromech is a trusted lightning arrestor manufacturer in India, providing dependable lightning arrestors to protect structures and people.";
 $keywords = " 
 Lightning Arrestor Manufacturers in India,Best Lightning Arrestor Manufacturers in India,Top Lightning Arrestor Manufacturers in India,ESE Lightning Arrestor Manufacturers in India,Industrial Lightning Arrestor Suppliers in India,Building Lightning Protection System in India,Surge Protection and Lightning Arrestor Supplier in India,Reliable Lightning Protection Solutions Provider in India,Building Lightning Protection System in India,Surge Protection Device,Earthing Equipment,ESE Lightning Arrestor,Lightning Protection System,Lightning Arrestor,Surge protection and lightning arrestor manufacturers in India,Residential lightning arrestor manufacturers in India";
 

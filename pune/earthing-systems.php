@@ -1,5 +1,5 @@
 <?php $page_title = "Earthing Systems Manufacturer in Pune | Gaurav Electromech";
-$description = "Our specialty at Gaurav Electromech is the design, manufacturing, trade, of high-performance earthing systems throughout Pune. Our products are designed to improve electrical.";
+$description = "Our specialty at Gaurav Electromech is the design, manufacture and trade of high-performance earthing systems throughout Pune.";
 $keywords = " 
 Earthing Manufacturer in Pune,Best Earthing Manufacturer in Pune,Top Earthing Manufacturer in Pune,Earthing Manufacturer in Pune,Maintenance Free Earthing System Manufacturers in Pune,Earthing Electrode Manufacturer,Chemical Earthing Manufacturer,Copper Bonded Electrode Manufacturer,GI Earthing Manufacturer,Reliable Earthing System Manufacturer in Pune,Leading Maintenance Free Earthing Manufacturer in Pune,GI Earthing Manufacturer";
 

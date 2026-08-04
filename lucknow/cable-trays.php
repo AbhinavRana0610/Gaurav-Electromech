@@ -1,5 +1,5 @@
 <?php $page_title = "Cable Trays Manufacturer in Lucknow | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading cable tray manufacturer in Lucknow, offering durable and efficient cable tray solutions including perforated cable trays, ladder type cable trays, and GI cable trays. Trusted for industrial and electrical cable management systems.";
+$description = "Gaurav Electromech is a leading cable tray manufacturer in Lucknow, offering perforated, ladder type and GI cable trays for industrial cable management.";
 $keywords = " 
 Cable Tray Manufacturer in Lucknow, Best Cable Tray Manufacturer in Lucknow, Top Cable Tray Manufacturer in Lucknow, Perforated Cable Tray Manufacturer in Lucknow, Ladder Type Cable Tray Manufacturer in Lucknow, GI Cable Tray Manufacturer in Lucknow, Industrial Cable Tray Manufacturer in Lucknow, Leading Cable Tray Manufacturer in Lucknow, Reliable Cable Tray Manufacturer in Lucknow, Electrical Cable Tray Manufacturer, GI Cable Tray Manufacturer, Ladder Cable Tray Manufacturer, Perforated Cable Tray Manufacturer, Cable Tray Manufacturer";
 

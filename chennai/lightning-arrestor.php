@@ -1,5 +1,5 @@
-<?php $page_title = "Lightning Arrestor Manufacturer in Chennai | Gaurav Electromech";
-$description = "A reputable brand in electrical protection systems, Gaurav Electromech is a trusted lightning arrestor manufacturer in Chennai, providing incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
+<?php $page_title = "Lightning Arrestor Manufacturer in Chennai";
+$description = "Gaurav Electromech is a trusted lightning arrestor manufacturer in Chennai, providing dependable lightning arrestors to protect structures and people.";
 $keywords = " 
 Lightning Arrestor Manufacturers in Chennai,Best Lightning Arrestor Manufacturers in Chennai,Top Lightning Arrestor Manufacturers in Chennai,ESE Lightning Arrestor Manufacturers in Chennai,Industrial Lightning Arrestor Suppliers in Chennai,Building Lightning Protection System in Chennai,Surge Protection and Lightning Arrestor Supplier in Chennai,Reliable Lightning Protection Solutions Provider in Chennai,Building Lightning Protection System in Chennai,Surge Protection Device,Earthing Equipment,ESE Lightning Arrestor,Lightning Protection System,Lightning Arrestor,Surge protection and lightning arrestor manufacturers in Chennai,Residential lightning arrestor manufacturers in Chennai";
 

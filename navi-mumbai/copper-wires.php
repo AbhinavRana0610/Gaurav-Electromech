@@ -1,5 +1,5 @@
-<?php $page_title = "Copper Wires Manufacturer in Navi Mumbai | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper wire manufacturer in Navi Mumbai, offering high-quality copper wires with excellent conductivity and flexibility for earthing, electrical, and power distribution applications. We specialize in bare copper wires, electrolytic copper wires, and reliable electrical copper wire solutions.";
+<?php $page_title = "Copper Wires Manufacturer in Navi Mumbai";
+$description = "Gaurav Electromech is a leading copper wire manufacturer in Navi Mumbai, offering bare and electrolytic copper wires for earthing and power distribution.";
 $keywords = " 
 Copper Wires Manufacturer in Navi Mumbai, Best Copper Wires Manufacturer in Navi Mumbai, Top Copper Wires Manufacturer in Navi Mumbai, Bare Copper Wire Manufacturer in Navi Mumbai, Electrical Copper Wire Manufacturer in Navi Mumbai, Industrial Copper Wires Manufacturer in Navi Mumbai, Leading Copper Wires Manufacturer in Navi Mumbai, Reliable Copper Wires Manufacturer in Navi Mumbai, Industrial Copper Wire Manufacturer, Electrical Copper Wire Manufacturer, Electrolytic Copper Wire Manufacturer, Bare Copper Wire Manufacturer, Copper Wires Manufacturer";
 

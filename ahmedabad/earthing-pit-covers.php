@@ -1,5 +1,5 @@
-<?php $page_title = "Earthing Pit Covers Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "A reputable brand in electrical safety solutions, Gaurav Electromech offers strong, effective earthing pit covers that shield and make earthing systems accessible. Being a reputable earthing pit cover manufacturer in Ahmedabad.";
+<?php $page_title = "Earthing Pit Covers Manufacturer in Ahmedabad";
+$description = "Being a reputable earthing pit cover manufacturer in Ahmedabad, Gaurav Electromech offers strong covers that protect and give access to earthing systems.";
 $keywords = " 
 Earthing Pit Cover Manufacturer in Ahmedabad,Best Earthing Pit Cover Manufacturer in Ahmedabad,Top Earthing Pit Cover Manufacturer in Ahmedabad,FRP Earthing Pit Cover Manufacturer in Ahmedabad,Plastic Earthing Pit Cover Manufacturer in Ahmedabad,Concrete Earthing Pit Cover Manufacturer in Ahmedabad,Industrial Earthing Pit Cover Manufacturer in Ahmedabad,Reliable Earthing Pit Cover Manufacturer in Ahmedabad,Leading Earthing Pit Cover Manufacturer in Ahmedabad,Heavy Duty Earthing Pit Cover Manufacturer,Concrete Earthing Pit Cover Manufacturer,FRP Earthing Pit Cover Manufacturer,Earthing Pit Cover Manufacturer";
 

@@ -1,5 +1,5 @@
 <?php $page_title = "Cable Trays Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading cable tray manufacturer in Ahmedabad, offering durable and efficient cable tray solutions including perforated cable trays, ladder type cable trays, and GI cable trays. Trusted for industrial and electrical cable management systems.";
+$description = "Gaurav Electromech is a leading cable tray manufacturer in Ahmedabad, offering perforated, ladder type and GI cable trays for industrial cable management.";
 $keywords = " 
 Cable Tray Manufacturer in Ahmedabad, Best Cable Tray Manufacturer in Ahmedabad, Top Cable Tray Manufacturer in Ahmedabad, Perforated Cable Tray Manufacturer in Ahmedabad, Ladder Type Cable Tray Manufacturer in Ahmedabad, GI Cable Tray Manufacturer in Ahmedabad, Industrial Cable Tray Manufacturer in Ahmedabad, Leading Cable Tray Manufacturer in Ahmedabad, Reliable Cable Tray Manufacturer in Ahmedabad, Electrical Cable Tray Manufacturer, GI Cable Tray Manufacturer, Ladder Cable Tray Manufacturer, Perforated Cable Tray Manufacturer, Cable Tray Manufacturer";
 

@@ -1,5 +1,5 @@
-<?php $page_title = "Chemical Earthing Manufacturer in Navi Mumbai | Gaurav Electromech";
-$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Navi Mumbai, providing strong and effective chemical earthing systems that ensure low-resistance discharge and long-term safety. We specialize in copper bonded chemical earthing, GI chemical earthing, and maintenance-free earthing solutions.";
+<?php $page_title = "Chemical Earthing Manufacturer in Navi Mumbai";
+$description = "Gaurav Electromech is a trusted chemical earthing manufacturer in Navi Mumbai, providing copper bonded, GI and maintenance-free chemical earthing systems.";
 $keywords = " 
 Chemical Earthing Manufacturer in Navi Mumbai, Best Chemical Earthing Manufacturer in Navi Mumbai, Top Chemical Earthing Manufacturer in Navi Mumbai, Copper Bonded Chemical Earthing Manufacturer in Navi Mumbai, GI Chemical Earthing Manufacturer in Navi Mumbai, Industrial Chemical Earthing Manufacturer in Navi Mumbai, Leading Chemical Earthing Manufacturer in Navi Mumbai, Reliable Chemical Earthing Manufacturer in Navi Mumbai, Maintenance Free Earthing Manufacturer, GI Earthing Manufacturer, Copper Chemical Earthing Manufacturer, Earthing Electrode Manufacturer, Chemical Earthing Manufacturer";
 

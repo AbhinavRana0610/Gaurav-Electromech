@@ -1,5 +1,5 @@
 <?php $page_title = "GI Cable Trays Manufacturer in Chennai | Gaurav Electromech";
-$description = "A well-known brand in the electrical and industrial infrastructure space, Gaurav Electromech is a trusted GI cable tray manufacturer in Chennai, providing sturdy, corrosion-resistant GI cable trays for well-organized cable management.";
+$description = "Gaurav Electromech is a trusted GI cable tray manufacturer in Chennai, providing sturdy, corrosion-resistant GI cable trays for organized cable management.";
 $keywords = " 
 GI Cable Trays Manufacturer in Chennai,Best GI Cable Trays Manufacturer in Chennai,Top GI Cable Trays Manufacturer in Chennai,Perforated GI Cable Trays Manufacturer in Chennai,Ladder Type GI Cable Trays Manufacturer in Chennai,Industrial GI Cable Trays Manufacturer in Chennai,Leading GI Cable Trays Manufacturer in Chennai,Reliable GI Cable Trays Manufacturer in Chennai,Galvanized Cable Trays Manufacturer,Electrical GI Cable Trays Manufacturer,Ladder GI Cable Trays Manufacturer,Perforated GI Cable Trays Manufacturer";
 

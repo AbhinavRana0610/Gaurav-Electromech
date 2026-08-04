@@ -1,5 +1,5 @@
 <?php $page_title = "GI Strips Manufacturer in Bengaluru | Gaurav Electromech";
-$description = "Gaurav Electromech provides high-quality galvanized iron (GI) strips, which are essential parts of electrical installations and earthing systems. Being one of top GI strip manufacturers in Bengaluru.";
+$description = "Being one of the top GI strip manufacturers in Bengaluru, Gaurav Electromech provides high-quality galvanized iron (GI) strips for earthing systems.";
 $keywords = " 
 Leading GI Strips Manufacturer in Bengaluru,Best GI Strips Manufacturer in Bengaluru,Top GI Strips Manufacturer in Bengaluru,Galvanized Iron GI Strips Manufacturer in Bengaluru,Electrical GI Strips Manufacturer in Bengaluru,Industrial GI Strips Manufacturer in Bengaluru,Hot Dip GI Strips Manufacturer in Bengaluru,Reliable GI Strips Manufacturer in Bengaluru,Hot Dip GI Strips Manufacturer,Industrial GI Strips Manufacturer,Electrical GI Strips Manufacturer,Galvanized Iron Strips Manufacturer,GI Strips Manufacturer";
 

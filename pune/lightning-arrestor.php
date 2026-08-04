@@ -1,5 +1,5 @@
 <?php $page_title = "Lightning Arrestor Manufacturer in Pune | Gaurav Electromech";
-$description = "A reputable brand in electrical protection systems, Gaurav Electromech is a trusted lightning arrestor manufacturer in Pune, providing incredibly dependable lightning arrestors to protect structures, machinery, and people from lightning strikes.";
+$description = "Gaurav Electromech is a trusted lightning arrestor manufacturer in Pune, providing dependable lightning arrestors to protect structures and people.";
 $keywords = " 
 Lightning Arrestor Manufacturers in Pune,Best Lightning Arrestor Manufacturers in Pune,Top Lightning Arrestor Manufacturers in Pune,ESE Lightning Arrestor Manufacturers in Pune,Industrial Lightning Arrestor Suppliers in Pune,Building Lightning Protection System in Pune,Surge Protection and Lightning Arrestor Supplier in Pune,Reliable Lightning Protection Solutions Provider in Pune,Building Lightning Protection System in Pune,Surge Protection Device,Earthing Equipment,ESE Lightning Arrestor,Lightning Protection System,Lightning Arrestor,Surge protection and lightning arrestor manufacturers in Pune,Residential lightning arrestor manufacturers in Pune";
 

@@ -1,5 +1,5 @@
-<?php $page_title = "GI Cable Trays Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "A well-known brand in the electrical and industrial infrastructure space, Gaurav Electromech is a trusted GI cable tray manufacturer in Ahmedabad, providing sturdy, corrosion-resistant GI cable trays for well-organized cable management.";
+<?php $page_title = "GI Cable Trays Manufacturer in Ahmedabad";
+$description = "Gaurav Electromech is a trusted GI cable tray manufacturer in Ahmedabad, providing sturdy, corrosion-resistant GI cable trays for organized cable management.";
 $keywords = " 
 GI Cable Tray Manufacturer in Ahmedabad,Best GI Cable Tray Manufacturer in Ahmedabad,Top GI Cable Tray Manufacturer in Ahmedabad,Perforated GI Cable Tray Manufacturer in Ahmedabad,Ladder Type GI Cable Tray Manufacturer in Ahmedabad,Industrial GI Cable Tray Manufacturer in Ahmedabad,Leading GI Cable Tray Manufacturer in Ahmedabad,Reliable GI Cable Tray Manufacturer in Ahmedabad,Galvanized Cable Tray Manufacturer,Electrical GI Cable Tray Manufacturer,Ladder GI Cable Tray Manufacturer,Perforated GI Cable Tray Manufacturer";
 

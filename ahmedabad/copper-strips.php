@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Strips Manufacturer in Ahmedabad | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper strip manufacturer in Ahmedabad, offering high-quality copper strips with excellent conductivity for electrical and industrial applications. We specialize in bare copper strips, electrolytic copper strips, and reliable electrical copper strip solutions.";
+$description = "Gaurav Electromech is a leading copper strip manufacturer in Ahmedabad, offering bare and electrolytic copper strips with excellent conductivity.";
 $keywords = " 
 Copper Strip Manufacturer in Ahmedabad, Best Copper Strip Manufacturer in Ahmedabad, Top Copper Strip Manufacturer in Ahmedabad, Bare Copper Strip Manufacturer in Ahmedabad, Electrical Copper Strip Manufacturer in Ahmedabad, Industrial Copper Strip Manufacturer in Ahmedabad, Leading Copper Strip Manufacturer in Ahmedabad, Reliable Copper Strip Manufacturer in Ahmedabad, Industrial Copper Strip Manufacturer, Electrical Copper Strip Manufacturer, Electrolytic Copper Strip Manufacturer, Bare Copper Strip Manufacturer, Copper Strip Manufacturer";
 

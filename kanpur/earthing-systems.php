@@ -1,5 +1,5 @@
 <?php $page_title = "Earthing Systems Manufacturer in Kanpur | Gaurav Electromech";
-$description = "Our specialty at Gaurav Electromech is the design, manufacturing, trade, of high-performance earthing systems throughout Kanpur. Our products are designed to improve electrical.";
+$description = "Our specialty at Gaurav Electromech is the design, manufacture and trade of high-performance earthing systems throughout Kanpur.";
 $keywords = " 
 Earthing Manufacturer in Kanpur,Best Earthing Manufacturer in Kanpur,Top Earthing Manufacturer in Kanpur,Earthing Manufacturer in Kanpur,Maintenance Free Earthing System Manufacturers in Kanpur,Earthing Electrode Manufacturer,Chemical Earthing Manufacturer,Copper Bonded Electrode Manufacturer,GI Earthing Manufacturer,Reliable Earthing System Manufacturer in Kanpur,Leading Maintenance Free Earthing Manufacturer in Kanpur,GI Earthing Manufacturer";
 

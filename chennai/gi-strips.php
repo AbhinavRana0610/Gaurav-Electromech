@@ -1,5 +1,5 @@
 <?php $page_title = "GI Strips Manufacturer in Chennai | Gaurav Electromech";
-$description = "Gaurav Electromech provides high-quality galvanized iron (GI) strips, which are essential parts of electrical installations and earthing systems. Being one of top GI strip manufacturers in Chennai.";
+$description = "Being one of the top GI strip manufacturers in Chennai, Gaurav Electromech provides high-quality galvanized iron (GI) strips for earthing systems.";
 $keywords = " 
 Leading GI Strips Manufacturer in Chennai,Best GI Strips Manufacturer in Chennai,Top GI Strips Manufacturer in Chennai,Galvanized Iron GI Strips Manufacturer in Chennai,Electrical GI Strips Manufacturer in Chennai,Industrial GI Strips Manufacturer in Chennai,Hot Dip GI Strips Manufacturer in Chennai,Reliable GI Strips Manufacturer in Chennai,Hot Dip GI Strips Manufacturer,Industrial GI Strips Manufacturer,Electrical GI Strips Manufacturer,Galvanized Iron Strips Manufacturer,GI Strips Manufacturer";
 

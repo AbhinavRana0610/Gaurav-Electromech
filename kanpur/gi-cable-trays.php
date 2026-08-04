@@ -1,5 +1,5 @@
 <?php $page_title = "GI Cable Trays Manufacturer in Kanpur | Gaurav Electromech";
-$description = "A well-known brand in the electrical and industrial infrastructure space, Gaurav Electromech is a trusted GI cable tray manufacturer in Kanpur, providing sturdy, corrosion-resistant GI cable trays for well-organized cable management.";
+$description = "Gaurav Electromech is a trusted GI cable tray manufacturer in Kanpur, providing sturdy, corrosion-resistant GI cable trays for organized cable management.";
 $keywords = " 
 GI Cable Tray Manufacturer in Kanpur,Best GI Cable Tray Manufacturer in Kanpur,Top GI Cable Tray Manufacturer in Kanpur,Perforated GI Cable Tray Manufacturer in Kanpur,Ladder Type GI Cable Tray Manufacturer in Kanpur,Industrial GI Cable Tray Manufacturer in Kanpur,Leading GI Cable Tray Manufacturer in Kanpur,Reliable GI Cable Tray Manufacturer in Kanpur,Galvanized Cable Tray Manufacturer,Electrical GI Cable Tray Manufacturer,Ladder GI Cable Tray Manufacturer,Perforated GI Cable Tray Manufacturer";
 

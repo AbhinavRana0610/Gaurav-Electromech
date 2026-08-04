@@ -1,5 +1,5 @@
-<?php $page_title = "GI Cable Trays Manufacturer in Navi Mumbai | Gaurav Electromech";
-$description = "A well-known brand in the electrical and industrial infrastructure space, Gaurav Electromech is a trusted GI cable tray manufacturer in Navi Mumbai, providing sturdy, corrosion-resistant GI cable trays for well-organized cable management.";
+<?php $page_title = "GI Cable Trays Manufacturer in Navi Mumbai";
+$description = "Gaurav Electromech is a trusted GI cable tray manufacturer in Navi Mumbai, providing sturdy, corrosion-resistant GI cable trays for organized cable management.";
 $keywords = " 
 GI Cable Trays Manufacturer in Navi Mumbai,Best GI Cable Trays Manufacturer in Navi Mumbai,Top GI Cable Trays Manufacturer in Navi Mumbai,Perforated GI Cable Trays Manufacturer in Navi Mumbai,Ladder Type GI Cable Trays Manufacturer in Navi Mumbai,Industrial GI Cable Trays Manufacturer in Navi Mumbai,Leading GI Cable Trays Manufacturer in Navi Mumbai,Reliable GI Cable Trays Manufacturer in Navi Mumbai,Galvanized Cable Trays Manufacturer,Electrical GI Cable Trays Manufacturer,Ladder GI Cable Trays Manufacturer,Perforated GI Cable Trays Manufacturer";
 

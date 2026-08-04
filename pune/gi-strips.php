@@ -1,5 +1,5 @@
 <?php $page_title = "GI Strips Manufacturer in Pune | Gaurav Electromech";
-$description = "Gaurav Electromech provides high-quality galvanized iron (GI) strips, which are essential parts of electrical installations and earthing systems. Being one of top GI strip manufacturers in Pune.";
+$description = "Being one of the top GI strip manufacturers in Pune, Gaurav Electromech provides high-quality galvanized iron (GI) strips for earthing systems.";
 $keywords = " 
 Leading GI Strip Manufacturer in Pune,Best GI Strip Manufacturer in Pune,Top GI Strip Manufacturer in Pune,Galvanized Iron GI Strip Manufacturer in Pune,Electrical GI Strip Manufacturer in Pune,Industrial GI Strip Manufacturer in Pune,Hot Dip GI Strip Manufacturer in Pune,Reliable GI Strip Manufacturer in Pune,Hot Dip GI Strip Manufacturer,Industrial GI Strip Manufacturer,Electrical GI Strip Manufacturer,Galvanized Iron Strip Manufacturer,GI Strip Manufacturer";
 

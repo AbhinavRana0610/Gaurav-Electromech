@@ -1,5 +1,5 @@
-<?php $page_title = "Earthing Systems Manufacturer in Bengaluru | Gaurav Electromech";
-$description = "Our specialty at Gaurav Electromech is the design, manufacturing, trade, of high-performance earthing systems throughout Bengaluru. Our products are designed to improve electrical.";
+<?php $page_title = "Earthing Systems Manufacturer in Bengaluru";
+$description = "Our specialty at Gaurav Electromech is the design, manufacture and trade of high-performance earthing systems throughout Bengaluru.";
 $keywords = " 
 Earthing Systems Manufacturer in Bengaluru,Best Earthing Systems Manufacturer in Bengaluru,Top Earthing Systems Manufacturer in Bengaluru,Earthing Systems Manufacturer in Bengaluru,Maintenance Free Earthing Systems Manufacturers in Bengaluru,Earthing Electrode Manufacturer,Chemical Earthing Manufacturer,Copper Bonded Electrode Manufacturer,GI Earthing Manufacturer,Reliable Earthing Systems Manufacturer in Bengaluru,Leading Maintenance Free Earthing Systems Manufacturer in Bengaluru,GI Earthing Manufacturer";
 

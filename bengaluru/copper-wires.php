@@ -1,5 +1,5 @@
 <?php $page_title = "Copper Wires Manufacturer in Bengaluru | Gaurav Electromech";
-$description = "Gaurav Electromech is a leading copper wire manufacturer in Bengaluru, offering high-quality copper wires with excellent conductivity and flexibility for earthing, electrical, and power distribution applications. We specialize in bare copper wires, electrolytic copper wires, and reliable electrical copper wire solutions.";
+$description = "Gaurav Electromech is a leading copper wire manufacturer in Bengaluru, offering bare and electrolytic copper wires for earthing and power distribution.";
 $keywords = " 
 Copper Wires Manufacturer in Bengaluru, Best Copper Wires Manufacturer in Bengaluru, Top Copper Wires Manufacturer in Bengaluru, Bare Copper Wire Manufacturer in Bengaluru, Electrical Copper Wire Manufacturer in Bengaluru, Industrial Copper Wires Manufacturer in Bengaluru, Leading Copper Wires Manufacturer in Bengaluru, Reliable Copper Wires Manufacturer in Bengaluru, Industrial Copper Wire Manufacturer, Electrical Copper Wire Manufacturer, Electrolytic Copper Wire Manufacturer, Bare Copper Wire Manufacturer, Copper Wires Manufacturer";
 

@@ -1,5 +1,5 @@
-<?php $page_title = "Earthing Pit Covers Manufacturer in Chennai | Gaurav Electromech";
-$description = "A reputable brand in electrical safety solutions, Gaurav Electromech offers strong, effective earthing pit covers that shield and make earthing systems accessible. Being a reputable earthing pit cover manufacturer in Chennai.";
+<?php $page_title = "Earthing Pit Covers Manufacturer in Chennai";
+$description = "Being a reputable earthing pit cover manufacturer in Chennai, Gaurav Electromech offers strong covers that protect and give access to earthing systems.";
 $keywords = " 
 Earthing Pit Covers Manufacturer in Chennai,Best Earthing Pit Covers Manufacturer in Chennai,Top Earthing Pit Covers Manufacturer in Chennai,FRP Earthing Pit Covers Manufacturer in Chennai,Plastic Earthing Pit Covers Manufacturer in Chennai,Concrete Earthing Pit Covers Manufacturer in Chennai,Industrial Earthing Pit Covers Manufacturer in Chennai,Reliable Earthing Pit Covers Manufacturer in Chennai,Leading Earthing Pit Covers Manufacturer in Chennai,Heavy Duty Earthing Pit Covers Manufacturer,Concrete Earthing Pit Covers Manufacturer,FRP Earthing Pit Covers Manufacturer,Earthing Pit Covers Manufacturer";
 

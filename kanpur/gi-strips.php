@@ -1,5 +1,5 @@
 <?php $page_title = "GI Strips Manufacturer in Kanpur | Gaurav Electromech";
-$description = "Gaurav Electromech provides high-quality galvanized iron (GI) strips, which are essential parts of electrical installations and earthing systems. Being one of top GI strip manufacturers in Kanpur.";
+$description = "Being one of the top GI strip manufacturers in Kanpur, Gaurav Electromech provides high-quality galvanized iron (GI) strips for earthing systems.";
 $keywords = " 
 Leading GI Strip Manufacturer in Kanpur,Best GI Strip Manufacturer in Kanpur,Top GI Strip Manufacturer in Kanpur,Galvanized Iron GI Strip Manufacturer in Kanpur,Electrical GI Strip Manufacturer in Kanpur,Industrial GI Strip Manufacturer in Kanpur,Hot Dip GI Strip Manufacturer in Kanpur,Reliable GI Strip Manufacturer in Kanpur,Hot Dip GI Strip Manufacturer,Industrial GI Strip Manufacturer,Electrical GI Strip Manufacturer,Galvanized Iron Strip Manufacturer,GI Strip Manufacturer";
 

@@ -9,7 +9,7 @@
     <link rel="icon" href="../img/logo.jpg">
 
 
-<meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in Chennai, offering ESE lightning arrestors, building lightning protection systems, surge protection devices, and earthing equipment. Trusted for industrial and residential lightning safety solutions.'); ?>">
+<meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in Chennai, offering ESE lightning arrestors, surge protection and earthing equipment.'); ?>">
 
 <meta name="keywords" content="<?php echo htmlspecialchars(isset($keywords) ? $keywords : 'Lightning Arrestor Manufacturers in Chennai, Best Lightning Arrestor Manufacturers in Chennai, Top Lightning Arrestor Manufacturers in Chennai, ESE Lightning Arrestor Manufacturers in Chennai, Industrial Lightning Arrestor Suppliers in Chennai, Building Lightning Protection System in Chennai, Surge Protection and Lightning Arrestor Supplier in Chennai, Reliable Lightning Protection Solutions Provider in Chennai, Surge Protection Device, Earthing Equipment, ESE Lightning Arrestor, Lightning Protection System, Surge protection and lightning arrestor manufacturers in Chennai, Residential lightning arrestor manufacturers in Chennai'); ?>">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">

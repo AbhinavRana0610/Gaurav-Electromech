@@ -1,5 +1,5 @@
-<?php $page_title = "GI Cable Trays Manufacturer in Bengaluru | Gaurav Electromech";
-$description = "A well-known brand in the electrical and industrial infrastructure space, Gaurav Electromech is a trusted GI cable tray manufacturer in Bengaluru, providing sturdy, corrosion-resistant GI cable trays for well-organized cable management.";
+<?php $page_title = "GI Cable Trays Manufacturer in Bengaluru";
+$description = "Gaurav Electromech is a trusted GI cable tray manufacturer in Bengaluru, providing sturdy, corrosion-resistant GI cable trays for organized cable management.";
 $keywords = " 
 GI Cable Trays Manufacturer in Bengaluru,Best GI Cable Trays Manufacturer in Bengaluru,Top GI Cable Trays Manufacturer in Bengaluru,Perforated GI Cable Trays Manufacturer in Bengaluru,Ladder Type GI Cable Trays Manufacturer in Bengaluru,Industrial GI Cable Trays Manufacturer in Bengaluru,Leading GI Cable Trays Manufacturer in Bengaluru,Reliable GI Cable Trays Manufacturer in Bengaluru,Galvanized Cable Trays Manufacturer,Electrical GI Cable Trays Manufacturer,Ladder GI Cable Trays Manufacturer,Perforated GI Cable Trays Manufacturer";
 
