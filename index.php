@@ -259,7 +259,6 @@
                 <button class="filter-btn" data-filter="earthing">Earthing Systems</button>
                 <button class="filter-btn" data-filter="cables">Cable Management</button>
                 <button class="filter-btn" data-filter="safety">Slotted Angle Racks</button>
-                <button class="filter-btn" data-filter="panels">Electrical Panels</button>
             </div>
 
             <div class="products-grid">
@@ -487,26 +486,6 @@
                     </div>
                 </div>
 
-                <div class="product-card" data-category="panels">
-                    <div class="product-image">
-                    <img src="img/img163.jpg" alt="Transformers" title="Transformers">
-                        <div class="product-overlay">
-                            <div class="product-icon">
-                                <i class="fas fa-bolt"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="product-content">
-                        <h3>Transformers</h3>
-                        <p>High-quality transformers for power distribution and electrical systems. Designed for reliability and efficiency.</p>
-                        <div class="product-features">
-                            <span class="feature-tag">Power Distribution</span>
-                            <span class="feature-tag">Efficient</span>
-                            <span class="feature-tag">Reliable</span>
-                        </div>
-                    </div>
-                </div>
-
                 <!-- Additional Products -->
                 <div class="product-card" data-category="earthing">
                     <div class="product-image">
@@ -528,45 +507,6 @@
                     </div>
                 </div>
 
-                <div class="product-card" data-category="safety">
-                    <div class="product-image">
-                    <img src="img/img157.jpg" alt="CCTV Camera" title="CCTV Camera">
-                        <div class="product-overlay">
-                            <div class="product-icon">
-                                <i class="fas fa-video"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="product-content">
-                        <h3>CCTV Camera</h3>
-                        <p>Professional surveillance systems for security and monitoring. High-definition cameras with advanced features for comprehensive coverage.</p>
-                        <div class="product-features">
-                            <span class="feature-tag">HD Quality</span>
-                            <span class="feature-tag">Security</span>
-                            <span class="feature-tag">Monitoring</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="product-card" data-category="panels">
-                    <div class="product-image">
-                    <img src="img/img159.jpg" alt="Street Light Poles" title="Street Light Poles">
-                        <div class="product-overlay">
-                            <div class="product-icon">
-                                <i class="fas fa-lightbulb"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="product-content">
-                        <h3>Street Light Poles</h3>
-                        <p>Durable street light poles for urban and rural lighting applications. Designed to withstand weather conditions and provide reliable illumination.</p>
-                        <div class="product-features">
-                            <span class="feature-tag">Weather Resistant</span>
-                            <span class="feature-tag">Durable</span>
-                            <span class="feature-tag">Reliable</span>
-                        </div>
-                    </div>
-                </div>
             </div>
 
             <!-- Product Modal -->
