@@ -51,7 +51,7 @@ include('header.php') ?>
                     <p>As a leading GI strip manufacturer in Lucknow, we manufacture GI strips in different sizes and specifications to meet varied project requirements. Every product undergoes strict quality inspection to ensure durability, dimensional accuracy, and reliable performance. Through advanced manufacturing techniques, timely production, and a commitment to quality, Earthing Manufacturers delivers trusted GI strip solutions across Lucknow.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img134.jpg" alt="GI Strips" title="GI Strips">
+                    <img src="../img/img148.jpg" alt="GI Strips" title="GI Strips">
                 </div>
             </div>
         </div>

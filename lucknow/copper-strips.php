@@ -50,7 +50,7 @@ include('header.php') ?>
                     <p>As a leading copper strips manufacturer in Lucknow, we manufacture copper strips in different widths, thicknesses, and specifications to suit diverse project requirements. Every product undergoes strict quality testing to ensure durability, dimensional accuracy, and dependable performance. With advanced manufacturing capabilities and timely production, Earthing Manufacturers provides reliable copper strip solutions across Lucknow.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img134.jpg" alt="Copper Strips" title="Copper Strips">
+                    <img src="../img/img152.jpg" alt="Copper Strips" title="Copper Strips">
                 </div>
             </div>
         </div>
