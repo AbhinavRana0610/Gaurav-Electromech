@@ -26,6 +26,7 @@ include('header.php') ?>
       <div class="location-box"><a href="jaipur/backfilling-earthing-compund.php" title="Jaipur">Jaipur</a></div>
       <div class="location-box"><a href="lucknow/backfilling-earthing-compund.php" title="Lucknow">Lucknow</a></div>
       <div class="location-box"><a href="kanpur/backfilling-earthing-compund.php" title="Kanpur">Kanpur</a></div>
+      <div class="location-box"><a href="bihar/backfilling-earthing-compund.php" title="Bihar">Bihar</a></div>
 
     </div>
   </div>

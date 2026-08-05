@@ -55,12 +55,16 @@ $ges_asset = $ges_local ? $ges_local_base . '/' : '/';
 
 /* ---------- what page is this? ---------------------------------------- */
 
+// Location folders. Most are cities; $ges_regions overrides the schema.org type
+// for the ones that are not, so areaServed stays accurate.
 $ges_cities = [
-    'ahmedabad' => 'Ahmedabad', 'bengaluru' => 'Bengaluru', 'chennai' => 'Chennai',
-    'hyderabad' => 'Hyderabad', 'jaipur'    => 'Jaipur',    'kanpur'  => 'Kanpur',
-    'lucknow'   => 'Lucknow',   'mumbai'    => 'Mumbai',    'navi-mumbai' => 'Navi Mumbai',
-    'pune'      => 'Pune',
+    'ahmedabad' => 'Ahmedabad', 'bengaluru' => 'Bengaluru', 'bihar'   => 'Bihar',
+    'chennai'   => 'Chennai',   'hyderabad' => 'Hyderabad', 'jaipur'  => 'Jaipur',
+    'kanpur'    => 'Kanpur',    'lucknow'   => 'Lucknow',   'mumbai'  => 'Mumbai',
+    'navi-mumbai' => 'Navi Mumbai', 'pune'  => 'Pune',
 ];
+
+$ges_regions = ['Bihar' => 'State'];
 
 $ges_products = [
     'lightning-arrestor'            => 'Lightning Arrestor',
@@ -130,7 +134,10 @@ $ges_graph[] = [
     ],
     'areaServed'  => array_merge(
         [['@type' => 'Country', 'name' => 'India']],
-        array_map(fn($c) => ['@type' => 'City', 'name' => $c], array_values($ges_cities))
+        array_map(
+            fn($c) => ['@type' => $ges_regions[$c] ?? 'City', 'name' => $c],
+            array_values($ges_cities)
+        )
     ),
     'sameAs'      => $ges_social,
 ];
