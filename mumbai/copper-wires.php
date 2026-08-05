@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/copper-wire.avif" alt="Copper Wires" title="Copper Wires"></div>
+    <div class="slide"><img src="../img/copper-wire.avif" alt="Copper Wires" title="Copper Wires" width="7257" height="3402"></div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ include('header.php') ?>
                     <p>We manufacture copper wires in different sizes and specifications to meet diverse project requirements. Every product is carefully tested before dispatch to ensure durability, safety, and reliable performance. Our commitment to quality manufacturing, timely delivery, and customer satisfaction has made us a preferred copper-wire manufacturer in Mumbai.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img152.jpg" alt="Copper Wires" title="Copper Wires">
+                    <img src="../img/img152.jpg" alt="Copper Wires" title="Copper Wires" width="500" height="455" loading="lazy" decoding="async">
                 </div>
             </div>
         </div>
@@ -148,7 +148,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Bare Copper Wires" title="Bare Copper Wires">
+                        <img src="../img/img152.jpg" alt="Bare Copper Wires" title="Bare Copper Wires" width="500" height="455" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ethernet"></i>
@@ -168,7 +168,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Tinned Copper Wires" title="Tinned Copper Wires">
+                        <img src="../img/img152.jpg" alt="Tinned Copper Wires" title="Tinned Copper Wires" width="500" height="455" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -188,7 +188,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Flexible Copper Wires" title="Flexible Copper Wires">
+                        <img src="../img/img152.jpg" alt="Flexible Copper Wires" title="Flexible Copper Wires" width="500" height="455" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-code-branch"></i>
@@ -208,7 +208,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Multi-core Cables" title="Multi-core Cables">
+                        <img src="../img/img152.jpg" alt="Multi-core Cables" title="Multi-core Cables" width="500" height="455" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-layer-group"></i>
@@ -228,7 +228,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img152.jpg" alt="Insulated Copper Wires" title="Insulated Copper Wires">
+                        <img src="../img/img152.jpg" alt="Insulated Copper Wires" title="Insulated Copper Wires" width="500" height="455" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-layer-group"></i>

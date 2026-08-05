@@ -8,7 +8,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/gi-strips.avif" alt="GI Strips" title="GI Strips"></div>
+    <div class="slide"><img src="../img/gi-strips.avif" alt="GI Strips" title="GI Strips" width="7257" height="3402"></div>
   </div>
 </div>
 
@@ -51,7 +51,7 @@ include('header.php') ?>
                     <p>As a leading GI strip manufacturer in Kanpur, we manufacture GI strips in different sizes and specifications to meet varied project requirements. Every product undergoes strict quality inspection to ensure durability, dimensional accuracy, and reliable performance. Through advanced manufacturing techniques, timely production, and a commitment to quality, Earthing Manufacturers delivers trusted GI strip solutions across Kanpur.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img148.jpg" alt="GI Strips" title="GI Strips">
+                    <img src="../img/img148.jpg" alt="GI Strips" title="GI Strips" width="500" height="400" loading="lazy" decoding="async">
                 </div>
             </div>
         </div>
@@ -149,7 +149,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Standard GI Strips" title="Standard GI Strips">
+                        <img src="../img/img148.jpg" alt="Standard GI Strips" title="Standard GI Strips" width="500" height="400" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ruler"></i>
@@ -169,7 +169,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Custom GI Strips" title="Custom GI Strips">
+                        <img src="../img/img148.jpg" alt="Custom GI Strips" title="Custom GI Strips" width="500" height="400" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-cogs"></i>
@@ -189,7 +189,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Zinc Coated Strips" title="Zinc Coated Strips">
+                        <img src="../img/img148.jpg" alt="Zinc Coated Strips" title="Zinc Coated Strips" width="500" height="400" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-layer-group"></i>
@@ -209,7 +209,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="GI Strip Accessories" title="GI Strip Accessories">
+                        <img src="../img/img148.jpg" alt="GI Strip Accessories" title="GI Strip Accessories" width="500" height="400" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

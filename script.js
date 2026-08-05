@@ -368,3 +368,38 @@ window.addEventListener('click', (event) => {
     }
 });
 
+
+
+// Hero video: hold the 9.9MB file back until the page has finished loading, so
+// the poster image paints first and the video never competes with the initial
+// render. Skipped entirely when the visitor prefers reduced motion.
+(function () {
+    var video = document.querySelector('video.hero-video-background[data-src]');
+    if (!video) return;
+
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        return;
+    }
+
+    function loadHeroVideo() {
+        if (video.dataset.loaded) return;
+        video.dataset.loaded = '1';
+
+        var source = document.createElement('source');
+        source.src = video.dataset.src;
+        source.type = 'video/mp4';
+        video.appendChild(source);
+        video.load();
+
+        var played = video.play();
+        if (played && played.catch) {
+            played.catch(function () { /* autoplay blocked - poster stays */ });
+        }
+    }
+
+    if (document.readyState === 'complete') {
+        loadHeroVideo();
+    } else {
+        window.addEventListener('load', loadHeroVideo);
+    }
+})();

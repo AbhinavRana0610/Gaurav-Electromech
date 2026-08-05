@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> <?php echo isset($page_title) ? $page_title : 'Gaurav Electromech - Electrical & Safety Solutions'; ?> </title>
+    <title><?php echo htmlspecialchars(isset($page_title) ? $page_title : 'Gaurav Electromech - Electrical & Safety Solutions', ENT_QUOTES); ?></title>
     <?php include __DIR__ . '/seo-meta.php'; ?>
     <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="img/logo.jpg">
 
   
 <meta name="description" content="<?php echo htmlspecialchars(isset($description) ? $description : 'Gaurav Electromech is one of the top lightning arrestor manufacturers in India, offering ESE lightning arrestors, surge protection and earthing equipment.'); ?>">
@@ -17,24 +16,13 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7RSVN7T02R"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7RSVN7T02R');
-</script>
-   
 </head>
 <body>
     <!-- Neo Navigation -->
     <nav class="neo-nav" id="neo-navbar">
         <div class="neo-nav-container">
             <div class="neo-nav-logo">
-                <img src="img/logo.avif" alt="GES Logo" title="GES Logo">
+                <img src="img/logo.avif" alt="GES Logo" title="GES Logo" width="6912" height="2323">
             </div>
 
             <ul class="neo-nav-menu" id="neo-nav-menu">

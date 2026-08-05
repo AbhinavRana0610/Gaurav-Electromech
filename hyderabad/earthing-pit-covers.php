@@ -8,7 +8,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/earthing-pitcover-pvc.avif" alt="PVC Earthing Pit Cover" title="PVC Earthing Pit Cover"></div>
+    <div class="slide"><img src="../img/earthing-pitcover-pvc.avif" alt="PVC Earthing Pit Cover" title="PVC Earthing Pit Cover" width="7257" height="3402"></div>
   </div>
 </div>
 
@@ -51,7 +51,7 @@ include('header.php') ?>
                     <p>As a leading earthing pit cover manufacturer in Hyderabad, we manufacture pit covers in different sizes and designs to meet diverse project requirements. Our products are widely used in factories, commercial buildings, hospitals, residential complexes, power plants, and infrastructure projects. With strict quality control and timely delivery, Earthing Manufacturers is a preferred manufacturer throughout Hyderabad.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img146.jpg" alt="Earthing Pit Covers" title="Earthing Pit Covers">
+                    <img src="../img/img146.jpg" alt="Earthing Pit Covers" title="Earthing Pit Covers" width="493" height="500" loading="lazy" decoding="async">
                 </div>
             </div>
         </div>
@@ -149,7 +149,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Plastic Pit Covers" title="Plastic Pit Covers">
+                        <img src="../img/img146.jpg" alt="Plastic Pit Covers" title="Plastic Pit Covers" width="493" height="500" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -169,7 +169,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="FRP Pit Covers" title="FRP Pit Covers">
+                        <img src="../img/img146.jpg" alt="FRP Pit Covers" title="FRP Pit Covers" width="493" height="500" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-industry"></i>
@@ -189,7 +189,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Concrete Pit Covers" title="Concrete Pit Covers">
+                        <img src="../img/img146.jpg" alt="Concrete Pit Covers" title="Concrete Pit Covers" width="493" height="500" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-building"></i>
@@ -209,7 +209,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Lockable Covers" title="Lockable Covers">
+                        <img src="../img/img146.jpg" alt="Lockable Covers" title="Lockable Covers" width="493" height="500" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-lock"></i>
@@ -229,7 +229,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Custom Covers" title="Custom Covers">
+                        <img src="../img/img146.jpg" alt="Custom Covers" title="Custom Covers" width="493" height="500" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-cogs"></i>

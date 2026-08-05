@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="img/copper-strip.avif" alt="Copper Strips" title="Copper Strips"></div>
+    <div class="slide"><img src="img/copper-strip.avif" alt="Copper Strips" title="Copper Strips" width="7257" height="3402"></div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ include('header.php') ?>
                     <p>To satisfy the unique needs of sectors including telecom, electronics, power generation, and construction, our copper strips are made from high-purity electrolytic copper and come in a range of thicknesses and widths.</p>
                 </div>
                 <div class="about-image">
-                    <img src="img/img152.jpg" alt="Copper Strips" title="Copper Strips">
+                    <img src="img/img152.jpg" alt="Copper Strips" title="Copper Strips" width="500" height="455" loading="lazy" decoding="async">
                 </div>
             </div>
         </div>
@@ -142,7 +142,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img152.jpg" alt="Electrolytic Copper Strips" title="Electrolytic Copper Strips">
+                        <img src="img/img152.jpg" alt="Electrolytic Copper Strips" title="Electrolytic Copper Strips" width="500" height="455" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-industry"></i>
@@ -162,7 +162,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img152.jpg" alt="Bare and Tinned Copper Strips" title="Bare and Tinned Copper Strips">
+                        <img src="img/img152.jpg" alt="Bare and Tinned Copper Strips" title="Bare and Tinned Copper Strips" width="500" height="455" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-layer-group"></i>
@@ -182,7 +182,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img152.jpg" alt="Soft and Semi-Hard Copper" title="Soft and Semi-Hard Copper">
+                        <img src="img/img152.jpg" alt="Soft and Semi-Hard Copper" title="Soft and Semi-Hard Copper" width="500" height="455" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-adjust"></i>
@@ -202,7 +202,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img152.jpg" alt="Custom Copper Strips" title="Custom Copper Strips">
+                        <img src="img/img152.jpg" alt="Custom Copper Strips" title="Custom Copper Strips" width="500" height="455" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ruler-combined"></i>
@@ -222,7 +222,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/img152.jpg" alt="Copper Strip Accessories" title="Copper Strip Accessories">
+                        <img src="img/img152.jpg" alt="Copper Strip Accessories" title="Copper Strip Accessories" width="500" height="455" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

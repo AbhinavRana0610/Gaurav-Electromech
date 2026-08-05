@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/copper-bond-earthing.avif" alt="Copper Bonded Earthing Electrode" title="Copper Bonded Earthing Electrode"></div>
+    <div class="slide"><img src="../img/copper-bond-earthing.avif" alt="Copper Bonded Earthing Electrode" title="Copper Bonded Earthing Electrode" width="7257" height="3402"></div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ include('header.php') ?>
                     <p>As a leading copper-bonded earthing manufacturer in Lucknow, we focus on precision manufacturing, strict quality control, and customer satisfaction. Every product is thoroughly tested before dispatch to ensure dependable performance in different environmental conditions. Through advanced manufacturing capabilities, timely production, and professional technical support, Earthing Manufacturers delivers reliable copper-bonded earthing solutions across Lucknow.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img124.jpg" alt="Copper Bonded Earthing" title="Copper Bonded Earthing">
+                    <img src="../img/img124.jpg" alt="Copper Bonded Earthing" title="Copper Bonded Earthing" width="209" height="178" loading="lazy" decoding="async">
                 </div>
             </div>
         </div>
@@ -148,7 +148,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img124.jpg" alt="Copper Bonded Earthing Electrodes" title="Copper Bonded Earthing Electrodes">
+                        <img src="../img/img124.jpg" alt="Copper Bonded Earthing Electrodes" title="Copper Bonded Earthing Electrodes" width="209" height="178" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-plug"></i>
@@ -168,7 +168,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Backfill Compounds" title="Backfill Compounds">
+                        <img src="../img/back-fill-compound.jpg" alt="Backfill Compounds" title="Backfill Compounds" width="1200" height="1600" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-mountain"></i>
@@ -188,7 +188,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img146.jpg" alt="Pit Covers" title="Pit Covers">
+                        <img src="../img/img146.jpg" alt="Pit Covers" title="Pit Covers" width="493" height="500" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -208,7 +208,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img148.jpg" alt="Earthing Accessories" title="Earthing Accessories">
+                        <img src="../img/img148.jpg" alt="Earthing Accessories" title="Earthing Accessories" width="500" height="400" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

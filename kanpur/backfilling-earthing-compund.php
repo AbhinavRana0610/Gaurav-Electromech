@@ -11,7 +11,7 @@ include('header.php') ?>
     
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/back-fill-compounds.avif" alt="Backfill Earthing Compound" title="Backfill Earthing Compound"></div>
+    <div class="slide"><img src="../img/back-fill-compounds.avif" alt="Backfill Earthing Compound" title="Backfill Earthing Compound" width="7257" height="3402"></div>
   </div>
 </div>
 
@@ -58,7 +58,7 @@ include('header.php') ?>
                     <p>As a leading backfilling earthing compound manufacturer in Kanpur, we follow strict quality control procedures throughout the manufacturing process to ensure consistent performance in different soil conditions. Every product is tested for durability, reliability, and conductivity before dispatch. Through advanced production techniques, timely manufacturing, and dedicated customer support, Earthing Manufacturers delivers dependable backfilling earthing compounds across Kanpur.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/back-fill-compound.jpg" alt="Backfill Earthing Compound" title="Backfill Earthing Compound">
+                    <img src="../img/back-fill-compound.jpg" alt="Backfill Earthing Compound" title="Backfill Earthing Compound" width="1200" height="1600" loading="lazy" decoding="async">
                 </div>
             </div>
         </div>
@@ -156,7 +156,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Carbon-Based Compounds" title="Carbon-Based Compounds">
+                        <img src="../img/back-fill-compound.jpg" alt="Carbon-Based Compounds" title="Carbon-Based Compounds" width="1200" height="1600" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-atom"></i>
@@ -176,7 +176,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Bentonite Compounds" title="Bentonite Compounds">
+                        <img src="../img/back-fill-compound.jpg" alt="Bentonite Compounds" title="Bentonite Compounds" width="1200" height="1600" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tint"></i>
@@ -196,7 +196,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Eco-Friendly Materials" title="Eco-Friendly Materials">
+                        <img src="../img/back-fill-compound.jpg" alt="Eco-Friendly Materials" title="Eco-Friendly Materials" width="1200" height="1600" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-leaf"></i>
@@ -216,7 +216,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/back-fill-compound.jpg" alt="Standard Packaging" title="Standard Packaging">
+                        <img src="../img/back-fill-compound.jpg" alt="Standard Packaging" title="Standard Packaging" width="1200" height="1600" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-box"></i>

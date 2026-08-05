@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/cable-trays.avif" alt="Cable Trays" title="Cable Trays"></div>
+    <div class="slide"><img src="../img/cable-trays.avif" alt="Cable Trays" title="Cable Trays" width="7257" height="3402"></div>
   </div>
 </div>
     <!-- Hero Section -->
@@ -49,7 +49,7 @@ include('header.php') ?>
                     <p>We manufacture cable trays in different sizes and specifications to meet diverse project requirements. Every product is tested for quality and durability before dispatch, ensuring dependable performance and customer satisfaction. Our commitment to quality manufacturing and timely delivery makes us a preferred cable tray manufacturer in Mumbai.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img139.jpg" alt="Cable Trays" title="Cable Trays">
+                    <img src="../img/img139.jpg" alt="Cable Trays" title="Cable Trays" width="500" height="438" loading="lazy" decoding="async">
                 </div>
             </div>
         </div>
@@ -140,7 +140,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Perforated Cable Trays" title="Perforated Cable Trays">
+                        <img src="../img/img139.jpg" alt="Perforated Cable Trays" title="Perforated Cable Trays" width="500" height="438" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-project-diagram"></i>
@@ -160,7 +160,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Ladder-Type Cable Trays" title="Ladder-Type Cable Trays">
+                        <img src="../img/img139.jpg" alt="Ladder-Type Cable Trays" title="Ladder-Type Cable Trays" width="500" height="438" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-project-diagram"></i>
@@ -180,7 +180,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Solid Bottom Cable Trays" title="Solid Bottom Cable Trays">
+                        <img src="../img/img139.jpg" alt="Solid Bottom Cable Trays" title="Solid Bottom Cable Trays" width="500" height="438" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -200,7 +200,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Wire Mesh Trays" title="Wire Mesh Trays">
+                        <img src="../img/img139.jpg" alt="Wire Mesh Trays" title="Wire Mesh Trays" width="500" height="438" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-ethernet"></i>
@@ -220,7 +220,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Raceways" title="Raceways">
+                        <img src="../img/img139.jpg" alt="Raceways" title="Raceways" width="500" height="438" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-road"></i>
@@ -240,7 +240,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Cable Tray Accessories" title="Cable Tray Accessories">
+                        <img src="../img/img139.jpg" alt="Cable Tray Accessories" title="Cable Tray Accessories" width="500" height="438" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>

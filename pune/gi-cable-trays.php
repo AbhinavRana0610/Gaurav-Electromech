@@ -9,7 +9,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/gi-cable-trays.avif" alt="GI Cable Trays" title="GI Cable Trays"></div>
+    <div class="slide"><img src="../img/gi-cable-trays.avif" alt="GI Cable Trays" title="GI Cable Trays" width="7257" height="3402"></div>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ include('header.php') ?>
                     <p>As a leading GI cable tray manufacturer in Pune, we manufacture products in various sizes and specifications to meet different installation requirements. Every cable tray is produced under strict quality control standards to ensure dependable performance and durability. With advanced manufacturing capabilities and timely production, Earthing Manufacturers delivers reliable GI cable tray solutions across Pune.</p>
                 </div>
                 <div class="about-image">
-                    <img src="../img/img139.jpg" alt="GI Cable Trays" title="GI Cable Trays">
+                    <img src="../img/img139.jpg" alt="GI Cable Trays" title="GI Cable Trays" width="500" height="438" loading="lazy" decoding="async">
                 </div>
             </div>
         </div>
@@ -150,7 +150,7 @@ include('header.php') ?>
             <div class="products-grid">
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Ladder & Perforated GI Trays" title="Ladder &amp; Perforated GI Trays">
+                        <img src="../img/img139.jpg" alt="Ladder & Perforated GI Trays" title="Ladder &amp; Perforated GI Trays" width="500" height="438" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-project-diagram"></i>
@@ -170,7 +170,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Trunkings and Raceways" title="Trunkings and Raceways">
+                        <img src="../img/img139.jpg" alt="Trunkings and Raceways" title="Trunkings and Raceways" width="500" height="438" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-shield-alt"></i>
@@ -190,7 +190,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="GI Cable Tray Accessories" title="GI Cable Tray Accessories">
+                        <img src="../img/img139.jpg" alt="GI Cable Tray Accessories" title="GI Cable Tray Accessories" width="500" height="438" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-tools"></i>
@@ -210,7 +210,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../img/img139.jpg" alt="Custom Galvanized Finishes" title="Custom Galvanized Finishes">
+                        <img src="../img/img139.jpg" alt="Custom Galvanized Finishes" title="Custom Galvanized Finishes" width="500" height="438" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-spray-can"></i>

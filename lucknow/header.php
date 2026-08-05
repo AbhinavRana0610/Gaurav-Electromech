@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> <?php echo isset($page_title) ? $page_title : 'Gaurav Electromech - Electrical & Safety Solutions'; ?> </title>
+    <title><?php echo htmlspecialchars(isset($page_title) ? $page_title : 'Gaurav Electromech - Electrical & Safety Solutions', ENT_QUOTES); ?></title>
     <?php include dirname(__DIR__) . '/seo-meta.php'; ?>
     <link rel="stylesheet" href="../styles.css">
 
@@ -19,7 +19,7 @@
         <nav class="neo-nav" id="neo-navbar">
         <div class="neo-nav-container">
             <div class="neo-nav-logo">
-                <img src="../img/logo.avif" alt="GES Logo" title="GES Logo">
+                <img src="../img/logo.avif" alt="GES Logo" title="GES Logo" width="6912" height="2323">
             </div>
 
             <ul class="neo-nav-menu" id="neo-nav-menu">
