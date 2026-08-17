@@ -235,8 +235,9 @@ include('header.php') ?>
                 <div class="product-card">
                     <div class="product-image">
                         <img src="img/img139.jpg" alt="Cable Tray Accessories" title="Cable Tray Accessories" width="500" height="438" loading="lazy" decoding="async">
+
                         <div class="product-overlay">
-                            <div class="product-icon">
+                    <div class="product-icon">
                                 <i class="fas fa-tools"></i>
                             </div>
                         </div>
