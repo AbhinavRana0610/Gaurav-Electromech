@@ -18,7 +18,7 @@
         <nav class="neo-nav" id="neo-navbar">
         <div class="neo-nav-container">
             <div class="neo-nav-logo">
-                <img src="../img/logo.avif" alt="GES Logo" title="GES Logo" width="6912" height="2323">
+                <img src="../img/logo.avif" alt="GES Logo" title="GES Logo" width="360" height="121">
             </div>
 
             <ul class="neo-nav-menu" id="neo-nav-menu">

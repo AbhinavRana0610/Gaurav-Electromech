@@ -11,7 +11,7 @@ include('header.php') ?>
     
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="img/back-fill-compounds.avif" alt="Backfill Earthing Compound" title="Backfill Earthing Compound" width="7257" height="3402"></div>
+    <div class="slide"><img src="img/back-fill-compounds.avif" alt="Backfill Earthing Compound" title="Backfill Earthing Compound" width="2400" height="1125"></div>
   </div>
 </div>
 

@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/chemical-earthing-electrode.avif" alt="Chemical Earthing Electrode" title="Chemical Earthing Electrode" width="7257" height="3402"></div>
+    <div class="slide"><img src="../img/chemical-earthing-electrode.avif" alt="Chemical Earthing Electrode" title="Chemical Earthing Electrode" width="2400" height="1125"></div>
   </div>
 </div>
 

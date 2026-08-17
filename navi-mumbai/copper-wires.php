@@ -7,7 +7,7 @@ include('header.php') ?>
 
 <div class="fusn-bt-hero">
   <div class="slides">
-    <div class="slide"><img src="../img/copper-wire.avif" alt="Copper Wires" title="Copper Wires" width="7257" height="3402"></div>
+    <div class="slide"><img src="../img/copper-wire.avif" alt="Copper Wires" title="Copper Wires" width="2400" height="1125"></div>
   </div>
 </div>
 
