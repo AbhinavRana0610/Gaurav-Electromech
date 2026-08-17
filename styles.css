@@ -3330,3 +3330,12 @@ h1, h2, h3, h4, h5, h6 {
         gap: 6rem;
     }
 }
+
+/* Floating WhatsApp / call buttons, on every page via header.php */
+.wa-pop-ups {
+    position: fixed;
+    z-index: 999;
+    bottom: 100px;
+    width: 50px;
+    left: 10px;
+}

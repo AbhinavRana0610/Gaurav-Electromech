@@ -56,3 +56,8 @@
         </div>
     </nav>
 
+
+<div class="wa-pop-ups">
+    <a href="https://wa.me/+918588810844" title="Whatsapp"><img src="../img/whatsap.png" alt="Whatsapp image" title="Whatsapp" width="60px"></a>
+     <a href="tel:+918588810844" title="Call"><img src="../img/call_icon.png" title="Call" alt="Call" width="60px"></a>
+</div>
