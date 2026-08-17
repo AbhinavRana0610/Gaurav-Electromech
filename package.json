@@ -1,0 +1,13 @@
+{
+  "name": "gaurav-electromech-site",
+  "private": true,
+  "type": "module",
+  "description": "Build tooling for the Gaurav Electromech site - minifies styles.css and script.js.",
+  "scripts": {
+    "build": "node tools/minify.mjs"
+  },
+  "devDependencies": {
+    "clean-css": "^5.3.3",
+    "terser": "^5.44.0"
+  }
+}
