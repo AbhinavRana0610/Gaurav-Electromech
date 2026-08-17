@@ -30,16 +30,20 @@ DirectoryIndex index.php index.html
 ErrorDocument 404 /404.php
 
 # ---- Compression ----------------------------------------------------------
+# text/javascript is the type this server actually sends for .js files, and it
+# has to be listed explicitly - without it the CSS was compressed and the JS
+# was not, which is exactly what the technical audit flagged.
 <IfModule mod_deflate.c>
     AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css
-    AddOutputFilterByType DEFLATE application/javascript application/x-javascript
-    AddOutputFilterByType DEFLATE application/json application/xml
+    AddOutputFilterByType DEFLATE text/javascript application/javascript application/x-javascript
+    AddOutputFilterByType DEFLATE application/json application/ld+json application/xml
     AddOutputFilterByType DEFLATE image/svg+xml
 </IfModule>
 
 <IfModule mod_brotli.c>
     AddOutputFilterByType BROTLI_COMPRESS text/html text/plain text/xml text/css
-    AddOutputFilterByType BROTLI_COMPRESS application/javascript application/json
+    AddOutputFilterByType BROTLI_COMPRESS text/javascript application/javascript application/x-javascript
+    AddOutputFilterByType BROTLI_COMPRESS application/json application/ld+json application/xml
     AddOutputFilterByType BROTLI_COMPRESS image/svg+xml
 </IfModule>
 
