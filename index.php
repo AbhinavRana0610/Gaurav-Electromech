@@ -127,7 +127,7 @@ include('header.php');
                     </div>
                 </div>
                 <div class="profile-image">
-                    <img src="https://images.pexels.com/photos/11645013/pexels-photo-11645013.jpeg" alt="Professional Team" title="Professional Team">
+                    <img src="https://images.pexels.com/photos/11645013/pexels-photo-11645013.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=900" alt="Professional Team" title="Professional Team" width="900" height="600" loading="lazy" decoding="async">
                 </div>
             </div>
         </div>
@@ -494,7 +494,7 @@ include('header.php');
                 <!-- Additional Products -->
                 <div class="product-card" data-category="earthing">
                     <div class="product-image">
-<img src="img/back-fill-compound.jpg" alt="Backfill Compound" title="Backfill Compound" width="1200" height="1600" loading="lazy" decoding="async">
+<img src="img/back-fill-compound.jpg" alt="Backfill Compound" title="Backfill Compound" width="600" height="800" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-mountain"></i>

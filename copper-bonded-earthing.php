@@ -162,7 +162,7 @@ include('header.php') ?>
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="img/back-fill-compound.jpg" alt="Backfill Compounds" title="Backfill Compounds" width="1200" height="1600" loading="lazy" decoding="async">
+                        <img src="img/back-fill-compound.jpg" alt="Backfill Compounds" title="Backfill Compounds" width="600" height="800" loading="lazy" decoding="async">
                         <div class="product-overlay">
                             <div class="product-icon">
                                 <i class="fas fa-mountain"></i>
