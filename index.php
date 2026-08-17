@@ -10,7 +10,7 @@ include('header.php');
             <video class="hero-video-background" autoplay muted loop playsinline
                    preload="none"
                    poster="img/hero-poster.jpg"
-                   data-src="img/thunderstorm10.mp4">
+                   data-src="img/thunderstorm10-v2.mp4">
                 Your browser does not support the video tag.
             </video>
             <div class="particles-container" id="particles"></div>
