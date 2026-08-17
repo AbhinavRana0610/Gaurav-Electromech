@@ -84,6 +84,23 @@ ErrorDocument 404 /404.php
     # SAMEORIGIN rather than DENY - the audit accepts either, and this still
     # allows the site to frame its own pages if that is ever wanted.
     Header always set X-Frame-Options "SAMEORIGIN"
+
+    # Content-Security-Policy. The allowed hosts below are not guesswork - they
+    # are every origin the pages actually request at runtime:
+    #   googletagmanager.com  GA4 tag          google-analytics.com  GA4 beacons
+    #   fonts.googleapis.com  font stylesheet  fonts.gstatic.com     font files
+    #   cdnjs.cloudflare.com  Font Awesome css + its webfonts
+    #   images.pexels.com     "Professional Team" photo on city pages
+    #   images.unsplash.com   background-image in styles.css (line ~855)
+    #
+    # 'unsafe-inline' is required and cannot currently be dropped:
+    #   style-src   1020 inline style="" attributes plus 25 inline <style> blocks
+    #   script-src  the JSON-LD block in seo-meta.php differs on every page, so
+    #               it cannot be covered by a static hash, and a nonce would need
+    #               the header emitted from PHP rather than here. The policy
+    #               still blocks scripts from any host not listed above.
+    # Keep this on ONE line - a broken line continuation here is a 500 on every page.
+    Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; img-src 'self' data: https://images.pexels.com https://images.unsplash.com https://*.googletagmanager.com https://*.google-analytics.com; connect-src 'self' https://*.google-analytics.com https://*.googletagmanager.com https://analytics.google.com; media-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'"
 </IfModule>
 
 # ---- Keep source and archive files out of the public site -----------------
