@@ -85,7 +85,7 @@ $products = [
 <body>
 <div class="wrap">
     <a href="<?php echo $base; ?>" title="Gaurav Electromech home">
-        <img class="logo" src="<?php echo $base; ?>img/logo.avif" alt="Gaurav Electromech" title="Gaurav Electromech">
+        <img class="logo" src="<?php echo $base; ?>img/logo.avif" alt="Gaurav Electromech" title="Gaurav Electromech" width="360" height="121">
     </a>
 
     <p class="code">404</p>
