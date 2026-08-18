@@ -101,6 +101,17 @@ ErrorDocument 404 /404.php
     #               still blocks scripts from any host not listed above.
     # Keep this on ONE line - a broken line continuation here is a 500 on every page.
     Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; img-src 'self' data: https://images.pexels.com https://images.unsplash.com https://*.googletagmanager.com https://*.google-analytics.com; connect-src 'self' https://*.google-analytics.com https://*.googletagmanager.com https://analytics.google.com; media-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'"
+
+    # HTTP Strict Transport Security. Deliberately short to start with: HSTS is
+    # one-way - once a browser has seen it, that visitor cannot reach the site
+    # over http until the max-age runs out, so a lapsed certificate would take
+    # them offline with no server-side way to undo it. 300s means any mistake
+    # expires in five minutes. Raise to 31536000 (plus includeSubDomains) only
+    # after this has run clean on the live host for a week or two.
+    # No 'preload' - that lands in Chrome's hardcoded list and takes months to leave.
+    # The http -> https 301 is at the top of this file; browsers ignore an HSTS
+    # header served over http, so local XAMPP is unaffected either way.
+    Header always set Strict-Transport-Security "max-age=300"
 </IfModule>
 
 # ---- Keep source and archive files out of the public site -----------------
